@@ -32,9 +32,16 @@
 </tr>
 </table>
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+<p align="center">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" alt="Hacktoberfest Contributor Badge" width="200">
+</p>
+
 
   <a href="mailto:himanshuverma15102006@gmail.com" >
     <img align="center" alt="Himanshu | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> 
 <p>
+## Hacktoberfest 2025
+
+
+
