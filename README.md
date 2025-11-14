@@ -25,7 +25,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bitflicker64&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bitflicker64&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
 </td>
 
