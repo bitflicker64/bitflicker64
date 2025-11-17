@@ -41,3 +41,6 @@
 
 [![An image of @bitflicker64's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bitflicker64)](https://holopin.io/@bitflicker64)
 
+
+![snake animation](https://raw.githubusercontent.com/bitflicker64/bitflicker64/output/snake.svg)
+
