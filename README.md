@@ -33,11 +33,11 @@
 </table>
 
 
-  <a href="mailto:himanshuverma15102006@gmail.com" >
-    <img align="center" alt="Himanshu | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
+
+
   </a> 
 <p>
-## Hacktoberfest 2025
+<h2>Hacktoberfest 2025</h2>
 
 [![An image of @bitflicker64's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bitflicker64)](https://holopin.io/@bitflicker64)
 
