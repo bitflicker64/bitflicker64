@@ -17,7 +17,6 @@
 - 💬 Ping me about **Development** and **Web3**.
 
 </td>
-
 </tr>
 </table>
 
