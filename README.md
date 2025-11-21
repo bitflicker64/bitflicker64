@@ -9,7 +9,7 @@
 - Exploring Node.js from zero.
 - Learning Docker from zero.
 - Using macOS + Linux tools (CLI-first workflow).
-- Writing in: JavaScript, basic TypeScript, C++, Java, Python.
+- Writing in: JavaScript, C++, Java, Python.
 - Building small projects to solidify fundamentals.
 - Using Git/GitHub properly as I improve.
 
