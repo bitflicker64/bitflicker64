@@ -29,8 +29,16 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitflicker64&theme=tokyonight&show_icons=true&count_private=true" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=bitflicker64&theme=tokyonight&hide_border=true" />
+
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bitflicker64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+
 </div>
+
 
 <br>
 
