@@ -38,4 +38,4 @@
 <br>
 
 ### Activity
-![snake animation](https://raw.githubusercontent.com/bitflicker64/bitflicker64/output/snake.svg)
+![snake](https://github.com/bitflicker64/bitflicker64/blob/output/snake.svg?timestamp=1)
