@@ -29,6 +29,10 @@
 
 </div>
 
+## Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=bitflicker64&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+![streak](https://git-hub-streak-stats.vercel.app/?user=bitflicker64&theme=tokyonight&hide_border=true)
 
 <br>
 
