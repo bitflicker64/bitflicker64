@@ -17,7 +17,7 @@
 <br>
 
 ### Current Goals
-- [ ] Finish core JavaScript (functions, DOM, events, async basics).
+- [✅] Finish core JavaScript (functions, DOM, events, async basics).
 - [ ] Build 3 small frontend projects without copying.
 - [ ] Learn Node.js basics (HTTP server, modules, filesystem).
 - [ ] Understand Docker fundamentals (images, containers, commands).
