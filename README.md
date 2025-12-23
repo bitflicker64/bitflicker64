@@ -29,12 +29,6 @@
 
 </div>
 
-## Trophies
-
-![streak](https://github-profile-trophy.vercel.app/?username=bitflicker64&theme=tokyonight)
-
-![streak](https://git-hub-streak-stats.vercel.app/?user=bitflicker64&theme=tokyonight&hide_border=true)
-
 <br>
 
 ### Badges
