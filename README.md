@@ -4,8 +4,7 @@
 
 <br>
 
-<br>
-### What i am doing rn
+### What I am doing rn
 - Learning JavaScript properly (mid-way through fundamentals).
 - Working on real frontend basics: DOM, events, layout, structure.
 - Exploring Node.js from zero.
