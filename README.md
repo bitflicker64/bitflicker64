@@ -5,7 +5,8 @@
 <br>
 
 <br>
-### What I’m Doing Right Now- Learning JavaScript properly (mid-way through fundamentals).
+### What i am doing rn
+- Learning JavaScript properly (mid-way through fundamentals).
 - Working on real frontend basics: DOM, events, layout, structure.
 - Exploring Node.js from zero.
 - Learning Docker from zero.
