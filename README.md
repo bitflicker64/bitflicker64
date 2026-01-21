@@ -19,8 +19,9 @@
 ### Current Goals
 - [x] Finish core JavaScript (functions, DOM, events, async basics).
 - [x] Build 3 small frontend projects without copying.
-- [ ] Learn Node.js basics (HTTP server, modules, filesystem).
-- [ ] Understand Docker fundamentals (images, containers, commands).
+- [x] Learn Java Advanced 
+- [x] Understand Docker fundamentals (images, containers, commands).
+- [ ] Understand Maven and learn Spring 
 - [ ] Set up a clean, stable Linux dev environment.
 - [ ] Maintain consistent Git/GitHub habits.
 - [ ] Reduce tutorials and increase actual implementation.
