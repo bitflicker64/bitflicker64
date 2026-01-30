@@ -21,8 +21,8 @@
 - [x] Build 3 small frontend projects without copying.
 - [x] Learn Java Advanced 
 - [x] Understand Docker fundamentals (images, containers, commands).
-- [ ] Understand Maven and learn Spring 
-- [ ] Set up a clean, stable Linux dev environment.
+- [ x Understand Maven and learn Spring 
+- [x] Set up a clean, stable Linux dev environment.
 - [ ] Maintain consistent Git/GitHub habits.
 - [ ] Reduce tutorials and increase actual implementation.
 
