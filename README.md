@@ -20,7 +20,7 @@
 - [x] Finish core JavaScript (functions, DOM, events, async basics).
 - [x] Build 3 small frontend projects without copying.
 - [x] Learn Java Advanced 
-- [x] Understand Docker fundamentals (images, containers, commands).
+- [x] Understand Docker in details
 - [x] Understand Maven and learn Spring 
 - [x] Set up a clean, stable Linux dev environment.
 - [ ] Learning groovy
