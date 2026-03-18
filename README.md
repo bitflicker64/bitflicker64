@@ -23,6 +23,8 @@
 - [x] Understand Docker in detail
 - [x] Understand Maven and learn Spring 
 - [x] Set up a clean, stable Linux dev environment.
+- [ ] learning Spring Boot
+- [ ] Complete projects in java / Spring Boot
 - [ ] Learning groovy
 - [ ] Maintain consistent Git/GitHub habits.
 - [ ] Reduce tutorials and increase actual implementation.
