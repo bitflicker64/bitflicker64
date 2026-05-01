@@ -32,16 +32,16 @@
 - [x] Set up a clean, stable Linux-based development environment.
 <br>
 
-- [ ] Finish Spring Boot with practical, production-style projects.
-- [ ] Build backend-heavy projects using Java / Spring Boot.
-- [ ] Explore Groovy and its ecosystem (Gradle, scripting use-cases).
-- [ ] Maintain consistent and meaningful Git/GitHub activity.
-- [ ] Reduce passive learning and focus more on building and shipping.
+- [x] Finish Spring Boot with practical, production-style projects.
+- [x] Build backend-heavy projects using Java / Spring Boot.
+- [x] Explore Groovy and its ecosystem (Gradle, scripting use-cases).
+- [x] Maintain consistent and meaningful Git/GitHub activity.
+- [x] Reduce passive learning and focus more on building and shipping.
 <br>
 
-- [ ] Deepen understanding of distributed systems (Raft, clustering, networking).
-- [ ] Contribute consistently to large-scale open source projects.
-- [ ] Improve system design and backend architecture skills.
+- [x] Deepen understanding of distributed systems (Raft, clustering, networking).
+- [x] Contribute consistently to large-scale open source projects.
+- [x] Improve system design and backend architecture skills.
 
 <br>
 
