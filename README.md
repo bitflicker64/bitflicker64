@@ -43,6 +43,10 @@
 - [x] Contribute consistently to large-scale open source projects.
 - [x] Improve system design and backend architecture skills.
 
+- [ ] Looking into CICD integrations, its fascinating how everything works
+- [ ] looking into kubernetes,(not the main repo yet
+- [ ] researchign on prow and github bots , would really wanna make a greatest piece of work 
+
 <br>
 
 </div>
