@@ -52,9 +52,6 @@
 </div>
 
 <br>
-### Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bitflicker64&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ### Badges
 [![Holopin Badges](https://holopin.me/bitflicker64)](https://holopin.io/@bitflicker64)
