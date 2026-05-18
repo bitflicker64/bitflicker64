@@ -4,6 +4,8 @@
 
 <br>
 
+### Finals week or my final week stay tuneddd!!!!1
+
 ### What I'm Working On
 - Contributing to Apache HugeGraph (backend, infra, deployment improvements)
 - Working on distributed systems concepts (Raft, clustering, networking)
