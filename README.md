@@ -4,7 +4,7 @@
 
 <br>
 
-### Finals week or my final week stay tuneddd!!!!1
+### Finals week or my final week stay tuneddd!!!!
 
 ### What I'm Working On
 - Contributing to Apache HugeGraph (backend, infra, deployment improvements)
