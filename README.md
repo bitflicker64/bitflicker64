@@ -12,12 +12,6 @@ Contributed 30+ merged pull requests across the Apache HugeGraph ecosystem, work
 
 <br>
 
-### Impact
-
-- 20+ merged PRs in Apache HugeGraph
-- Contributor across backend, infrastructure, deployment, and CI systems
-- Experience working in large scale open source codebases
-
 ### Open Source
 
 #### Apache HugeGraph
