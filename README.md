@@ -119,13 +119,8 @@
 <!-- RECENT ACTIVITY: Auto-updated every 6 hours by .github/workflows/recent-activity.yml. Shows latest 10 GitHub events (pushes, PRs, issues, releases). Trigger manually from Actions tab. -->
 ### 📈 Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY_TEMPLATE:start-->
-```
-< {timestamp} — {action} {repo} — {description}
-```
-<!--RECENT_ACTIVITY_TEMPLATE:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
