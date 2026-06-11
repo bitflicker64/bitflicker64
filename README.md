@@ -60,6 +60,16 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">Cilium — Hubble Metrics</h3>
+      <div align="center">
+        <a href="https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64">
+          <img src="https://img.shields.io/badge/3%20PRs-38C2FF?style=flat-square&logo=cilium"/>
+        </a>
+        <br>
+        <span>Labels context parsing fix, documentation improvements across Hubble metrics and routing.</span>
+      </div>
+    </td>
+    <td width="50%">
       <h3 align="center">Kubernetes</h3>
       <div align="center">
         <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Abitflicker64">
@@ -67,16 +77,6 @@
         </a>
         <br>
         <span>Registry fixes, label cleanup, and ongoing contributions.</span>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Chaos Mesh</h3>
-      <div align="center">
-        <a href="https://github.com/chaos-mesh/chaos-mesh/pulls?q=is%3Apr+author%3Abitflicker64">
-          <img src="https://img.shields.io/badge/3%20PRs-38C2FF?style=flat-square&logo=chaos-mesh"/>
-        </a>
-        <br>
-        <span>UI fixes, deprecated API replacements, e2e improvements.</span>
       </div>
     </td>
   </tr>
