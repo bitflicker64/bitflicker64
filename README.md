@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2338C2FF&size=42&center=true&vCenter=true&height=60&width=600&lines=Himanshu+Verma;bitflicker64" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23A0D8FF&size=18&center=true&vCenter=true&height=30&width=600&lines=Backend+%26+Infrastructure+Engineer;Open+Source+Contributor;Distributed+Systems+%26+Container+Ecosystem" />
+  <br>
+  <a href="https://killl.me" target="_blank">
+    <img src="https://img.shields.io/badge/killl.me-38C2FF?style=for-the-badge&logo=About.me&logoColor=white&label=portfolio"/>
+  </a>
 </div>
 
 <br>
@@ -162,7 +166,10 @@
 ### 🌐 Connect
 
 <p align="center">
+  <a href="https://killl.me"><img src="https://img.shields.io/badge/portfolio-38C2FF?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://github.com/bitflicker64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/himanshu-verma-40755a359"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Bitflicker64"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 <br>
