@@ -124,16 +124,16 @@
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/bitflicker64/Termstory/pull/30) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-2. 🎉 Merged PR [#29](https://github.com/bitflicker64/Termstory/pull/29) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-3. 💪 Opened PR [#29](https://github.com/bitflicker64/Termstory/pull/29) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-4. 🎉 Merged PR [#28](https://github.com/bitflicker64/Termstory/pull/28) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-5. 💪 Opened PR [#28](https://github.com/bitflicker64/Termstory/pull/28) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-6. 🎉 Merged PR [#27](https://github.com/bitflicker64/Termstory/pull/27) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-7. 💪 Opened PR [#27](https://github.com/bitflicker64/Termstory/pull/27) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-8. 🎉 Merged PR [#26](https://github.com/bitflicker64/Termstory/pull/26) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-9. 💪 Opened PR [#26](https://github.com/bitflicker64/Termstory/pull/26) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-10. 🎉 Merged PR [#25](https://github.com/bitflicker64/Termstory/pull/25) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 💪 Opened PR [#69](https://github.com/bitflicker64/Termstory/pull/69) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+2. 🔒 Closed issue [#68](https://github.com/bitflicker64/Termstory/issues/68) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+3. 🗣 Commented on [#68](https://github.com/bitflicker64/Termstory/issues/68#issuecomment-4734362773) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+4. 🔒 Closed issue [#67](https://github.com/bitflicker64/Termstory/issues/67) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+5. 🗣 Commented on [#67](https://github.com/bitflicker64/Termstory/issues/67#issuecomment-4734362507) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+6. 🔒 Closed issue [#66](https://github.com/bitflicker64/Termstory/issues/66) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+7. 🗣 Commented on [#66](https://github.com/bitflicker64/Termstory/issues/66#issuecomment-4734362230) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+8. 🔒 Closed issue [#65](https://github.com/bitflicker64/Termstory/issues/65) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+9. 🗣 Commented on [#65](https://github.com/bitflicker64/Termstory/issues/65#issuecomment-4734361960) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+10. 🔒 Closed issue [#64](https://github.com/bitflicker64/Termstory/issues/64) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
