@@ -124,16 +124,16 @@
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/bitflicker64/Termstory/pull/29) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-2. 💪 Opened PR [#29](https://github.com/bitflicker64/Termstory/pull/29) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-3. 🎉 Merged PR [#28](https://github.com/bitflicker64/Termstory/pull/28) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-4. 💪 Opened PR [#28](https://github.com/bitflicker64/Termstory/pull/28) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-5. 🎉 Merged PR [#27](https://github.com/bitflicker64/Termstory/pull/27) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-6. 💪 Opened PR [#27](https://github.com/bitflicker64/Termstory/pull/27) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-7. 🎉 Merged PR [#26](https://github.com/bitflicker64/Termstory/pull/26) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-8. 💪 Opened PR [#26](https://github.com/bitflicker64/Termstory/pull/26) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-9. 🎉 Merged PR [#25](https://github.com/bitflicker64/Termstory/pull/25) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-10. 💪 Opened PR [#25](https://github.com/bitflicker64/Termstory/pull/25) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 💪 Opened PR [#30](https://github.com/bitflicker64/Termstory/pull/30) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+2. 🎉 Merged PR [#29](https://github.com/bitflicker64/Termstory/pull/29) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+3. 💪 Opened PR [#29](https://github.com/bitflicker64/Termstory/pull/29) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+4. 🎉 Merged PR [#28](https://github.com/bitflicker64/Termstory/pull/28) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+5. 💪 Opened PR [#28](https://github.com/bitflicker64/Termstory/pull/28) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+6. 🎉 Merged PR [#27](https://github.com/bitflicker64/Termstory/pull/27) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+7. 💪 Opened PR [#27](https://github.com/bitflicker64/Termstory/pull/27) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+8. 🎉 Merged PR [#26](https://github.com/bitflicker64/Termstory/pull/26) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+9. 💪 Opened PR [#26](https://github.com/bitflicker64/Termstory/pull/26) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+10. 🎉 Merged PR [#25](https://github.com/bitflicker64/Termstory/pull/25) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
