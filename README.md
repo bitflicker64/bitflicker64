@@ -124,16 +124,16 @@
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/bitflicker64/Termstory/pull/187#issuecomment-4855341814) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-2. 🗣 Commented on [#12951](https://github.com/warpdotdev/warp/pull/12951#issuecomment-4855316219) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
-3. 🗣 Commented on [#187](https://github.com/bitflicker64/Termstory/pull/187#issuecomment-4855285711) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-4. 🗣 Commented on [#187](https://github.com/bitflicker64/Termstory/pull/187#issuecomment-4855266083) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-5. 🗣 Commented on [#187](https://github.com/bitflicker64/Termstory/pull/187#issuecomment-4855262242) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-6. 🗣 Commented on [#187](https://github.com/bitflicker64/Termstory/pull/187#issuecomment-4855240474) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-7. 🗣 Commented on [#78](https://github.com/Dreamstick9/filedrop/pull/78#issuecomment-4851526770) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-8. 🗣 Commented on [#79](https://github.com/Dreamstick9/filedrop/pull/79#issuecomment-4851523929) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-9. 🗣 Commented on [#78](https://github.com/Dreamstick9/filedrop/pull/78#issuecomment-4851508475) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-10. 🗣 Commented on [#78](https://github.com/Dreamstick9/filedrop/pull/78#issuecomment-4851505181) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Unlabeled issue [#193](https://github.com/bitflicker64/Termstory/issues/193) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+2. ℹ️ Labeled issue [#193](https://github.com/bitflicker64/Termstory/issues/193) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+3. 🗣 Commented on [#193](https://github.com/bitflicker64/Termstory/issues/193#issuecomment-4858980434) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+4. ℹ️ Unlabeled issue [#192](https://github.com/bitflicker64/Termstory/issues/192) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+5. ℹ️ Labeled issue [#192](https://github.com/bitflicker64/Termstory/issues/192) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+6. 🗣 Commented on [#192](https://github.com/bitflicker64/Termstory/issues/192#issuecomment-4858975364) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+7. ℹ️ Labeled issue [#191](https://github.com/bitflicker64/Termstory/issues/191) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+8. ℹ️ Unlabeled issue [#191](https://github.com/bitflicker64/Termstory/issues/191) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+9. 🗣 Commented on [#191](https://github.com/bitflicker64/Termstory/issues/191#issuecomment-4858972955) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+10. ℹ️ Unlabeled issue [#190](https://github.com/bitflicker64/Termstory/issues/190) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
