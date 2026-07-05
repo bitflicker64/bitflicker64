@@ -124,16 +124,16 @@
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/bitflicker64/Termstory/pull/212#issuecomment-4885307913) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-2. 🗣 Commented on [#212](https://github.com/bitflicker64/Termstory/pull/212#issuecomment-4884912103) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-3. 🗣 Commented on [#212](https://github.com/bitflicker64/Termstory/pull/212#issuecomment-4884911260) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-4. 🗣 Commented on [#212](https://github.com/bitflicker64/Termstory/pull/212#issuecomment-4884909527) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-5. 🗣 Commented on [#230](https://github.com/bitflicker64/Termstory/pull/230#issuecomment-4884907891) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-6. 🗣 Commented on [#230](https://github.com/bitflicker64/Termstory/pull/230#issuecomment-4884905731) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-7. 🗣 Commented on [#230](https://github.com/bitflicker64/Termstory/pull/230#issuecomment-4884904149) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-8. 🗣 Commented on [#230](https://github.com/bitflicker64/Termstory/pull/230#issuecomment-4883611663) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-9. 🗣 Commented on [#230](https://github.com/bitflicker64/Termstory/pull/230#issuecomment-4883554660) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-10. 🗣 Commented on [#230](https://github.com/bitflicker64/Termstory/pull/230#issuecomment-4883509686) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🎉 Merged PR [#6743](https://github.com/pipe-cd/pipecd/pull/6743) in [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd)
+2. 🗣 Commented on [#231](https://github.com/bitflicker64/Termstory/pull/231#issuecomment-4885897116) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+3. 🗣 Commented on [#231](https://github.com/bitflicker64/Termstory/pull/231#issuecomment-4885892961) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+4. 🗣 Commented on [#2](https://github.com/SemTiOne/standup-bot/issues/2#issuecomment-4885891002) in [SemTiOne/standup-bot](https://github.com/SemTiOne/standup-bot)
+5. 🗣 Commented on [#2](https://github.com/SemTiOne/standup-bot/issues/2#issuecomment-4885886709) in [SemTiOne/standup-bot](https://github.com/SemTiOne/standup-bot)
+6. ❗ Opened issue [#2](https://github.com/SemTiOne/standup-bot/issues/2) in [SemTiOne/standup-bot](https://github.com/SemTiOne/standup-bot)
+7. 🗣 Commented on [#1](https://github.com/SemTiOne/standup-bot/issues/1#issuecomment-4885813601) in [SemTiOne/standup-bot](https://github.com/SemTiOne/standup-bot)
+8. 🗣 Commented on [#231](https://github.com/bitflicker64/Termstory/pull/231#issuecomment-4885664658) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+9. 🗣 Commented on [#231](https://github.com/bitflicker64/Termstory/pull/231#issuecomment-4885663724) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+10. 🗣 Commented on [#215](https://github.com/bitflicker64/Termstory/issues/215#issuecomment-4885663286) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
