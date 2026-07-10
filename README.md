@@ -124,16 +124,16 @@
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#114](https://github.com/Dreamstick9/filedrop/issues/114) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-2. 🔒 Closed issue [#115](https://github.com/Dreamstick9/filedrop/issues/115) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-3. 🔒 Closed issue [#246](https://github.com/bitflicker64/Termstory/issues/246) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-4. 🔒 Closed issue [#245](https://github.com/bitflicker64/Termstory/issues/245) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-5. ❗ Opened issue [#246](https://github.com/bitflicker64/Termstory/issues/246) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-6. ❗ Opened issue [#245](https://github.com/bitflicker64/Termstory/issues/245) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-7. 🔒 Closed issue [#244](https://github.com/bitflicker64/Termstory/issues/244) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-8. 🔒 Closed issue [#243](https://github.com/bitflicker64/Termstory/issues/243) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-9. ❗ Opened issue [#244](https://github.com/bitflicker64/Termstory/issues/244) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-10. ❗ Opened issue [#243](https://github.com/bitflicker64/Termstory/issues/243) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on [#118](https://github.com/Dreamstick9/filedrop/pull/118#issuecomment-4934879134) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+2. 🗣 Commented on [#118](https://github.com/Dreamstick9/filedrop/pull/118#issuecomment-4934865158) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+3. 🗣 Commented on [#118](https://github.com/Dreamstick9/filedrop/pull/118#issuecomment-4934863546) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+4. 🔒 Closed issue [#114](https://github.com/Dreamstick9/filedrop/issues/114) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+5. 🔒 Closed issue [#115](https://github.com/Dreamstick9/filedrop/issues/115) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+6. 🔒 Closed issue [#246](https://github.com/bitflicker64/Termstory/issues/246) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+7. 🔒 Closed issue [#245](https://github.com/bitflicker64/Termstory/issues/245) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+8. ❗ Opened issue [#246](https://github.com/bitflicker64/Termstory/issues/246) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+9. ❗ Opened issue [#245](https://github.com/bitflicker64/Termstory/issues/245) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+10. 🔒 Closed issue [#244](https://github.com/bitflicker64/Termstory/issues/244) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
