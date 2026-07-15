@@ -124,16 +124,16 @@
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#151](https://github.com/bitflicker64/Termstory/issues/151) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-2. 🗣 Commented on [#279](https://github.com/bitflicker64/Termstory/pull/279#issuecomment-4972610237) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-3. ℹ️ Unlabeled issue [#155](https://github.com/Dreamstick9/filedrop/issues/155) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-4. ℹ️ Unlabeled issue [#154](https://github.com/Dreamstick9/filedrop/issues/154) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-5. ℹ️ Unlabeled issue [#153](https://github.com/Dreamstick9/filedrop/issues/153) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-6. ℹ️ Unlabeled issue [#152](https://github.com/Dreamstick9/filedrop/issues/152) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-7. ℹ️ Unlabeled issue [#151](https://github.com/Dreamstick9/filedrop/issues/151) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-8. ℹ️ Unlabeled issue [#150](https://github.com/Dreamstick9/filedrop/issues/150) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-9. ℹ️ Unlabeled issue [#149](https://github.com/Dreamstick9/filedrop/issues/149) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-10. ℹ️ Unlabeled issue [#148](https://github.com/Dreamstick9/filedrop/issues/148) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. 🗣 Commented on [#144](https://github.com/Dreamstick9/filedrop/pull/144#issuecomment-4977328160) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+2. 🗣 Commented on [#157](https://github.com/Dreamstick9/filedrop/pull/157#issuecomment-4977281452) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+3. 🗣 Commented on [#157](https://github.com/Dreamstick9/filedrop/pull/157#issuecomment-4977280218) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+4. 🔒 Closed issue [#63](https://github.com/Dreamstick9/filedrop/issues/63) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+5. 🗣 Commented on [#157](https://github.com/Dreamstick9/filedrop/pull/157#issuecomment-4977274011) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+6. 🔒 Closed issue [#151](https://github.com/bitflicker64/Termstory/issues/151) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+7. 🗣 Commented on [#279](https://github.com/bitflicker64/Termstory/pull/279#issuecomment-4972610237) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+8. ℹ️ Unlabeled issue [#155](https://github.com/Dreamstick9/filedrop/issues/155) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+9. ℹ️ Unlabeled issue [#154](https://github.com/Dreamstick9/filedrop/issues/154) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+10. ℹ️ Unlabeled issue [#153](https://github.com/Dreamstick9/filedrop/issues/153) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
 <!--END_SECTION:activity-->
 
 ---
