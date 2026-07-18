@@ -1,8 +1,8 @@
-<!-- HEADER: Animated typing SVG showing name and tagline. Updates when you push. -->
+<!-- AUTO-GENERATED from README.template.md — do not edit by hand -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2338C2FF&size=42&center=true&vCenter=true&height=60&width=600&lines=Himanshu+Verma;bitflicker64" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23A0D8FF&size=18&center=true&vCenter=true&height=30&width=600&lines=Backend+%26+Infrastructure+Engineer;Open+Source+Contributor;Distributed+Systems+%26+Container+Ecosystem" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23A0D8FF&size=18&center=true&vCenter=true&height=30&width=700&lines=Open+Source+Contributor;Backend+%26+Infrastructure;Apache+HugeGraph+%C2%B7+Cilium+%C2%B7+containerd" />
   <br>
   <a href="https://killl.me" target="_blank">
     <img src="https://img.shields.io/badge/killl.me-38C2FF?style=for-the-badge&logo=About.me&logoColor=white&label=portfolio"/>
@@ -11,72 +11,74 @@
 
 <br>
 
-<!-- META BADGES: Live counters from GitHub API. Repos, followers, merged PR count, profile views auto-update. -->
 <p align="center">
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
-  <img src="https://img.shields.io/badge/merged%20PRs-30%2B-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1401-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
 ---
 
-<!-- ABOUT: Short summary. PR count is approximate — updates as more get merged. -->
 ### 🚀 About Me
 
-> Backend and infrastructure engineer building **reliable, observable, and easy-to-operate** systems.
+> Open source contributor focused on **reliable infrastructure**: Docker/ops tooling, networking observability, and production graph systems.
 >
-> 30+ merged PRs across the Apache HugeGraph ecosystem — Docker deployments, networking, auth, CI/CD, and operational tooling.
+> **36 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and more — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 >
-> Currently exploring: **containerd internals, Kubernetes, and platform engineering**.
+> Currently contributing around **Kubernetes, containerd, Cilium, and chaos/observability** tooling.
 
 ---
 
-<!-- FEATURED WORK: Only upstream org repos (containerd/containerd, apache/hugegraph, kubernetes/kubernetes, chaos-mesh/chaos-mesh). No personal forks or own repos. -->
-### 🏆 Featured Work
+### 🏆 Featured Upstream Work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">containerd — Size Filter</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Apache HugeGraph ecosystem</h3>
       <div align="center">
-        <a href="https://github.com/containerd/containerd/pull/13576">
-          <img src="https://img.shields.io/badge/PR%20%2313576-38C2FF?style=flat-square&logo=containerd"/>
+        <a href="https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph">
+          <img src="https://img.shields.io/badge/24%20merged-38C2FF?style=flat-square&logo=apache"/>
         </a>
         <br>
-        <span>Added size-based filtering to <code>AdaptInfo</code> — enables <code>size==1024</code> / <code>size!=0</code> in content queries.</span>
+        <span>Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.</span>
+        <br><sub>Latest: <a href="https://github.com/apache/hugegraph-ai/pull/366">#366</a> — chore: introduce ty for type checking (non-blocking)</sub>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">HugeGraph — Docker Ops</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Cilium / Hubble</h3>
       <div align="center">
-        <a href="https://github.com/apache/hugegraph/pulls?q=is%3Apr+author%3Abitflicker64">
-          <img src="https://img.shields.io/badge/10%2B%20merged-38C2FF?style=flat-square&logo=apache"/>
+        <a href="https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64">
+          <img src="https://img.shields.io/badge/4%20merged%20%C2%B7%201%20open-38C2FF?style=flat-square&logo=cilium"/>
         </a>
         <br>
-        <span>Docker healthchecks, process supervision, networking fixes, CI pipeline modernization.</span>
+        <span>Hubble metrics label parsing, docs fixes, contributor tooling cleanup.</span>
+        <br><sub>Latest: <a href="https://github.com/cilium/cilium/pull/46524">#46524</a> — tools/dev-doctor: remove stale FIXME about gomega check</sub>
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Cilium — Hubble Metrics</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">containerd</h3>
       <div align="center">
-        <a href="https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64">
-          <img src="https://img.shields.io/badge/3%20PRs-38C2FF?style=flat-square&logo=cilium"/>
+        <a href="https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Abitflicker64">
+          <img src="https://img.shields.io/badge/0%20merged%20%C2%B7%201%20open-38C2FF?style=flat-square&logo=containerd"/>
         </a>
         <br>
-        <span>Labels context parsing fix, documentation improvements across Hubble metrics and routing.</span>
+        <span>Content-store size filtering (`AdaptInfo`) and CRI-adjacent work.</span>
+        <br><sub>Open: <a href="https://github.com/containerd/containerd/pull/13576">#13576</a> — content: support size based filtering in AdaptInfo</sub>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">Kubernetes</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Kubernetes ecosystem</h3>
       <div align="center">
-        <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Abitflicker64">
-          <img src="https://img.shields.io/badge/3%20PRs-38C2FF?style=flat-square&logo=kubernetes"/>
+        <a href="https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+(repo%3Akubernetes%2Fkubernetes+OR+repo%3Achaos-mesh%2Fchaos-mesh+OR+repo%3Asustainable-computing-io%2Fkepler+OR+repo%3Apipe-cd%2Fpipecd)">
+          <img src="https://img.shields.io/badge/1%20merged%20%C2%B7%205%20open-38C2FF?style=flat-square&logo=kubernetes"/>
         </a>
         <br>
-        <span>Registry fixes, label cleanup, and ongoing contributions.</span>
+        <span>Cluster tooling, chaos e2e hygiene, energy exporter manifests, CD docs.</span>
+        <br><sub>Latest: <a href="https://github.com/pipe-cd/pipecd/pull/6743">#6743</a> — Fix typos in comments</sub>
       </div>
     </td>
   </tr>
@@ -84,7 +86,25 @@
 
 ---
 
-<!-- GITHUB STATS: Live cards from anuraghazra/github-readme-stats and streak counter. Shows commit activity, streak, top languages. Auto-update daily. -->
+### 📡 Open PR Radar
+
+Live snapshot of open pull requests in upstream orgs (auto-refreshed).
+
+- [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
+- [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
+- [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
+- [chaos-mesh/chaos-mesh#4931](https://github.com/chaos-mesh/chaos-mesh/pull/4931) — fix(e2e): replace deprecated wait.Poll with wait.PollUntilContextTimeout in pod_failure.go
+- [chaos-mesh/chaos-mesh#4930](https://github.com/chaos-mesh/chaos-mesh/pull/4930) — chore(ui): remove stale jss-to-styled codemod comment
+- [chaos-mesh/chaos-mesh#4929](https://github.com/chaos-mesh/chaos-mesh/pull/4929) — fix(ui): add dedicated icon for BlockChaos
+- [sustainable-computing-io/kepler#2489](https://github.com/sustainable-computing-io/kepler/pull/2489) — fix(manifests): add NVML init container for NVIDIA GPU Operator support
+- [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
+- [warpdotdev/warp#12951](https://github.com/warpdotdev/warp/pull/12951) — Fix/unix pty error handling
+- [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
+- [sugarlabs/musicblocks-v4#544](https://github.com/sugarlabs/musicblocks-v4/pull/544) — feat(singer): add 5 new builtin synth types (fm, am, pluck, membrane, noise)
+- [SakanaAI/LanguageEvolution#6](https://github.com/SakanaAI/LanguageEvolution/pull/6) — fix: rename stem_and_suffix to stem_and_affix in tests
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -98,7 +118,6 @@
 
 ---
 
-<!-- TECH STACK: Shields.io badges. Color-coded by technology. Hover for tooltip. -->
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -116,53 +135,51 @@
   <br>
   <img src="https://img.shields.io/badge/Apache-0052CC?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cilium-F24C00?style=for-the-badge&logo=cilium&logoColor=white"/>
 </p>
 
 ---
 
-<!-- RECENT ACTIVITY: Auto-updated every 6 hours by .github/workflows/recent-activity.yml. Shows latest 10 GitHub events (pushes, PRs, issues, releases). Trigger manually from Actions tab. -->
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/bitflicker64/Termstory/pull/270#issuecomment-5010395317) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-2. 🗣 Commented on [#158](https://github.com/bitflicker64/Termstory/issues/158#issuecomment-5010384684) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-3. 🗣 Commented on [#158](https://github.com/bitflicker64/Termstory/issues/158#issuecomment-5010378686) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-4. ℹ️ Labeled PR [#276](https://github.com/bitflicker64/Termstory/pull/276) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-5. 🔒 Closed issue [#258](https://github.com/bitflicker64/Termstory/issues/258) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-6. 🗣 Commented on [#276](https://github.com/bitflicker64/Termstory/pull/276#issuecomment-5006330126) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-7. ℹ️ Labeled PR [#276](https://github.com/bitflicker64/Termstory/pull/276) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-8. ℹ️ Labeled PR [#276](https://github.com/bitflicker64/Termstory/pull/276) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-9. ℹ️ Unlabeled PR [#276](https://github.com/bitflicker64/Termstory/pull/276) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-10. 🗣 Commented on [#290](https://github.com/bitflicker64/Termstory/pull/290#issuecomment-5004587473) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. 🐛 Opened issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#169](https://github.com/Dreamstick9/filedrop/issues/169) — [Easy] index.js/server.js: mDNS transfer id and X-Transfer-ID are generated separately and diverge in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#169](https://github.com/Dreamstick9/filedrop/issues/169) — [Easy] index.js/server.js: mDNS transfer id and X-Transfer-ID are generated separately and diverge in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#169](https://github.com/Dreamstick9/filedrop/issues/169) — [Easy] index.js/server.js: mDNS transfer id and X-Transfer-ID are generated separately and diverge in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. ℹ️ Labeled issue [#169](https://github.com/Dreamstick9/filedrop/issues/169) — [Easy] index.js/server.js: mDNS transfer id and X-Transfer-ID are generated separately and diverge in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
 <!--END_SECTION:activity-->
 
 ---
 
-<!-- CURRENT FOCUS: Areas actively being worked on. Update as priorities shift. -->
 ### 🎯 Current Focus
 
 <table>
   <tr>
-    <td align="center">☸️</td>
-    <td><b>Kubernetes</b> — finding issues, contributing to the ecosystem</td>
+    <td align="center">🐘</td>
+    <td><b>Apache HugeGraph</b> — Docker infra, CI/CD, operational tooling & docs</td>
+  </tr>
+  <tr>
+    <td align="center">🐝</td>
+    <td><b>Cilium / Hubble</b> — metrics correctness, docs, contributor tooling</td>
   </tr>
   <tr>
     <td align="center">📦</td>
-    <td><b>containerd</b> — content store, mount management, CRI internals</td>
+    <td><b>containerd</b> — content store filters, CRI / mount internals</td>
   </tr>
   <tr>
-    <td align="center">🐘</td>
-    <td><b>HugeGraph</b> — Docker infra, CI/CD, operational tooling</td>
-  </tr>
-  <tr>
-    <td align="center">🧩</td>
-    <td><b>Platform Engineering</b> — logistics ERP, deployment tooling</td>
+    <td align="center">☸️</td>
+    <td><b>Kubernetes ecosystem</b> — cluster tooling, chaos, and energy observability</td>
   </tr>
 </table>
 
 ---
 
-<!-- CONNECT: Social links. Add more as needed. -->
 ### 🌐 Connect
 
 <p align="center">
@@ -174,14 +191,16 @@
 
 <br>
 
-<!-- SNAKE CONTRIBUTION GRAPH: Generated by a separate GitHub Action in .github/workflows/. The snake eats your contribution squares. -->
 <div align="center">
-  <img src="https://github.com/bitflicker64/bitflicker64/blob/output/snake.svg?timestamp=1" width="80%"/>
+  <img src="https://github.com/bitflicker64/bitflicker64/blob/output/snake.svg" width="80%" alt="contribution snake"/>
 </div>
 
 <br>
 
-<!-- HOLOPIN BADGES: Digital badges from open source achievements. Auto-generated at holopin.io/@bitflicker64 -->
 <p align="center">
-  <img src="https://holopin.me/bitflicker64" width="60%"/>
+  <img src="https://holopin.me/bitflicker64" width="60%" alt="holopin badges"/>
+</p>
+
+<p align="center">
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-18 11:21</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
