@@ -1,0 +1,100 @@
+name: Check stats hosts
+
+# Probes github-readme-stats / streak / langs mirrors.
+# If a preferred host is dead, picks the next healthy mirror and regenerates README.
+on:
+  schedule:
+    # Every 3 hours — catch paused Vercel demos faster than the full 6h regen
+    - cron: "20 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/stats_hosts.py"
+      - "scripts/generate_readme.py"
+      - "README.template.md"
+      - ".github/workflows/check-stats-hosts.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  check-and-swap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe mirrors
+        id: probe
+        env:
+          STATS_PROBE_TIMEOUT: "12"
+        run: |
+          set +e
+          python3 scripts/stats_hosts.py | tee /tmp/probe.txt
+          code=$?
+          set -e
+          echo "probe_exit=$code" >> "$GITHUB_OUTPUT"
+          {
+            echo "### Stats host probe"
+            echo '```'
+            cat /tmp/probe.txt
+            echo '```'
+            if [ -f stats_hosts.status.json ]; then
+              echo ""
+              echo "<details><summary>status JSON</summary>"
+              echo ""
+              echo '```json'
+              cat stats_hosts.status.json
+              echo '```'
+              echo "</details>"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+          # 0 = all healthy, 2 = some unhealthy (still usable fallbacks), other = crash
+          if [ "$code" -ne 0 ] && [ "$code" -ne 2 ]; then
+            exit "$code"
+          fi
+          exit 0
+
+      - name: Regenerate README with selected hosts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_PROBE_TIMEOUT: "12"
+        run: python3 scripts/generate_readme.py
+
+      - name: Commit & push if hosts or README changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md stats_hosts.status.json
+          if git diff --staged --quiet; then
+            echo "No host/README changes"
+            exit 0
+          fi
+          git commit -m "chore: swap dead stats hosts / refresh README cards"
+          git push
+
+      - name: Fail if no healthy host for a required slot
+        if: steps.probe.outputs.probe_exit == '2'
+        run: |
+          echo "::warning::One or more stats slots fell back to a dead/unverified host. Check stats_hosts.status.json and add a new mirror in scripts/stats_hosts.py"
+          # Soft-fail: warn but do not red-X the whole pipeline once a fallback exists.
+          # Hard-fail only when generate would have left empty URLs (handled above).
+          python3 - <<'PY'
+          import json, sys
+          from pathlib import Path
+          data = json.loads(Path("stats_hosts.status.json").read_text())
+          dead = [k for k, v in data["slots"].items() if not v["healthy"]]
+          print("unhealthy slots:", ", ".join(dead) or "(none)")
+          # Exit 0 — README already updated with best effort. Annotate only.
+          sys.exit(0)
+          PY

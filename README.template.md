@@ -52,13 +52,22 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 ### 📊 GitHub Stats
 
+<!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF"/>
+  <img height="180em" src="{{STATS_CARD_URL}}" alt="GitHub stats"/>
+  <img height="180em" src="{{STREAK_CARD_URL}}" alt="contribution streak / summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445"/>
+  <img src="{{TOP_LANGS_URL}}" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="{{ACTIVITY_GRAPH_URL}}" width="100%" alt="contribution activity graph"/>
+</p>
+
+<p align="center">
+  <sub>stats hosts: {{STATS_HOSTS_NOTE}}</sub>
 </p>
 
 ---

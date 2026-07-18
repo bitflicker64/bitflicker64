@@ -10,6 +10,7 @@ on:
     paths:
       - "README.template.md"
       - "scripts/generate_readme.py"
+      - "scripts/stats_hosts.py"
       - ".github/workflows/update-readme.yml"
 
 permissions:

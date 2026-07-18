@@ -445,6 +445,17 @@ def count_upstream_merged(merged: list[dict]) -> int:
     return n
 
 
+def select_stats_hosts() -> dict[str, str]:
+    """Probe mirrors and return template placeholders for stats image URLs."""
+    # Local import keeps this script runnable even if stats_hosts is edited alone.
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from stats_hosts import select_all, urls_for_template, write_status  # type: ignore
+
+    selections = select_all()
+    write_status(selections)
+    return urls_for_template(selections)
+
+
 def render() -> str:
     template = TEMPLATE_PATH.read_text(encoding="utf-8")
     # Strip the source-of-truth comment block from generated README (optional keep first line note).
@@ -455,6 +466,9 @@ def render() -> str:
         count=1,
         flags=re.DOTALL,
     )
+
+    print("Selecting healthy stats hosts…", file=sys.stderr)
+    stats_urls = select_stats_hosts()
 
     print("Fetching user…", file=sys.stderr)
     user = fetch_user()
@@ -479,6 +493,7 @@ def render() -> str:
         "OPEN_PRS": format_open_prs(open_prs),
         "RECENT_ACTIVITY": format_activity(events),
         "LAST_UPDATED": last_updated,
+        **stats_urls,
     }
 
     out = template
