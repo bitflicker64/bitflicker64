@@ -15,7 +15,7 @@
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
   <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1403-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1405-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -110,7 +110,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 <!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=streak-stats.demolab.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
+  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=github-readme-streak-stats.herokuapp.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
 </p>
 
 ---
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/bitflicker64](https://github.com/bitflicker64/bitflicker64)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/bitflicker64](https://github.com/bitflicker64/bitflicker64)
-1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. ℹ️ Labeled issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. 🐛 Opened issue [#170](https://github.com/Dreamstick9/filedrop/issues/170) — [Easy] server.js: set Referrer-Policy: no-referrer on decryptor HTML to protect ?t= tokens in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. ℹ️ Labeled issue [#169](https://github.com/Dreamstick9/filedrop/issues/169) — [Easy] index.js/server.js: mDNS transfer id and X-Transfer-ID are generated separately and diverge in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. ℹ️ Labeled issue [#169](https://github.com/Dreamstick9/filedrop/issues/169) — [Easy] index.js/server.js: mDNS transfer id and X-Transfer-ID are generated separately and diverge in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. 🗣 Commented on PR [#304](https://github.com/bitflicker64/Termstory/pull/304#issuecomment-5011326079) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#305](https://github.com/bitflicker64/Termstory/pull/305#issuecomment-5011323422) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#305](https://github.com/bitflicker64/Termstory/pull/305#issuecomment-5011316553) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on issue [#300](https://github.com/bitflicker64/Termstory/issues/300#issuecomment-5011314944) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 👀 Reviewed PR [#303](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#303](https://github.com/bitflicker64/Termstory/pull/303#issuecomment-5011305611) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#303](https://github.com/bitflicker64/Termstory/pull/303#issuecomment-5011304667) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#304](https://github.com/bitflicker64/Termstory/pull/304#issuecomment-5011302650) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#305](https://github.com/bitflicker64/Termstory/pull/305#issuecomment-5011296096) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#303](https://github.com/bitflicker64/Termstory/pull/303#issuecomment-5011152728) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-18 11:28</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-18 13:14</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
