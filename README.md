@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-18 22:10</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-19 02:40</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
