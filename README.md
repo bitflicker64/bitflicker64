@@ -98,10 +98,10 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [chaos-mesh/chaos-mesh#4929](https://github.com/chaos-mesh/chaos-mesh/pull/4929) — fix(ui): add dedicated icon for BlockChaos
 - [sustainable-computing-io/kepler#2489](https://github.com/sustainable-computing-io/kepler/pull/2489) — fix(manifests): add NVML init container for NVIDIA GPU Operator support
 - [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
-- [warpdotdev/warp#12951](https://github.com/warpdotdev/warp/pull/12951) — Fix/unix pty error handling
 - [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
 - [sugarlabs/musicblocks-v4#544](https://github.com/sugarlabs/musicblocks-v4/pull/544) — feat(singer): add 5 new builtin synth types (fm, am, pluck, membrane, noise)
 - [SakanaAI/LanguageEvolution#6](https://github.com/SakanaAI/LanguageEvolution/pull/6) — fix: rename stem_and_suffix to stem_and_affix in tests
+- [Chhunneng/programming-starters-project#47](https://github.com/Chhunneng/programming-starters-project/pull/47) — Update encrypt.md with installation instructions
 
 ---
 
@@ -152,6 +152,9 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on issue [#12950](https://github.com/warpdotdev/warp/issues/12950#issuecomment-5036766597) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
+1. ❌ Closed PR [#12951](https://github.com/warpdotdev/warp/pull/12951) — pull request in [warpdotdev/warp](https://github.com/warpdotdev/warp)
+1. 🗣 Commented on PR [#12951](https://github.com/warpdotdev/warp/pull/12951#issuecomment-5036766128) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
 1. 🗣 Commented on issue [#2506](https://github.com/sustainable-computing-io/kepler/issues/2506#issuecomment-5034819367) in [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler)
 1. 🗣 Commented on PR [#2489](https://github.com/sustainable-computing-io/kepler/pull/2489#issuecomment-5034750934) in [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler)
 1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
@@ -159,9 +162,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 1. 🔀 Unlabeled PR [#282](https://github.com/bitflicker64/Termstory/pull/282) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. 👀 Reviewed PR [#282](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. 🗣 Commented on PR [#282](https://github.com/bitflicker64/Termstory/pull/282#issuecomment-5033893530) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#282](https://github.com/bitflicker64/Termstory/pull/282#issuecomment-5033880608) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#282](https://github.com/bitflicker64/Termstory/pull/282#issuecomment-5033877938) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `feat/issue-38-rpg` in [Diwakar-odds/Termstory](https://github.com/Diwakar-odds/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-21 16:47</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-21 19:21</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
