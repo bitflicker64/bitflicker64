@@ -152,6 +152,8 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ⬆️ Pushed 0 commit(s) to `feat/issue-38-rpg` in [Diwakar-odds/Termstory](https://github.com/Diwakar-odds/Termstory)
+1. 🌱 Created branch `pr-282` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. 🗣 Commented on issue [#348](https://github.com/bitflicker64/Termstory/issues/348#issuecomment-5031430941) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. 🗣 Commented on issue [#347](https://github.com/bitflicker64/Termstory/issues/347#issuecomment-5031426549) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. 🗣 Commented on issue [#348](https://github.com/bitflicker64/Termstory/issues/348#issuecomment-5031424263) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
@@ -160,8 +162,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 1. ⬆️ Pushed 0 commit(s) to `fix/gpu-nvml-init-container` in [bitflicker64/kepler](https://github.com/bitflicker64/kepler)
 1. 🗣 Commented on issue [#348](https://github.com/bitflicker64/Termstory/issues/348#issuecomment-5025677711) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. ℹ️ Labeled issue [#348](https://github.com/bitflicker64/Termstory/issues/348) — predict accepts negative --top and --days values in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Labeled issue [#347](https://github.com/bitflicker64/Termstory/issues/347) — today --compare appears to be the default and does not render a distinct comparison view in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Labeled issue [#346](https://github.com/bitflicker64/Termstory/issues/346) — Web report embeds raw credential-looking commands in report.html in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-21 09:04</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-21 11:21</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
