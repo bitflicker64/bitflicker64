@@ -152,6 +152,8 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 🗣 Commented on PR [#352](https://github.com/bitflicker64/Termstory/pull/352#issuecomment-5059356668) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. 🗣 Commented on PR [#167](https://github.com/hugegraph/hugegraph/pull/167#issuecomment-5059273699) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. 🗣 Commented on PR [#167](https://github.com/hugegraph/hugegraph/pull/167#issuecomment-5059010532) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
@@ -160,8 +162,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 1. 🗣 Commented on PR [#351](https://github.com/bitflicker64/Termstory/pull/351#issuecomment-5058588923) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. ℹ️ Closed issue [#344](https://github.com/bitflicker64/Termstory/issues/344) — TUI shows AI onboarding even after AI is configured and active in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#353](https://github.com/bitflicker64/Termstory/pull/353#issuecomment-5058583192) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 👀 Reviewed PR [#353](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-23 13:58</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-23 14:36</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
