@@ -110,7 +110,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 <!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark" alt="contribution streak / summary"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=streak-stats.demolab.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
+  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=github-profile-summary-cards.vercel.app✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
 </p>
 
 ---
@@ -152,6 +152,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on PR [#167](https://github.com/hugegraph/hugegraph/pull/167#issuecomment-5071101297) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. 🗣 Commented on PR [#167](https://github.com/hugegraph/hugegraph/pull/167#issuecomment-5070357936) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 1. 🗣 Commented on PR [#167](https://github.com/hugegraph/hugegraph/pull/167#issuecomment-5070104059) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
@@ -161,7 +162,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 1. 🍴 Forked [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
 1. 👀 Reviewed PR [#355](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. 🗣 Commented on PR [#355](https://github.com/bitflicker64/Termstory/pull/355#issuecomment-5067383425) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#355](https://github.com/bitflicker64/Termstory/pull/355#issuecomment-5067374049) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-24 14:16</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-24 17:00</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
