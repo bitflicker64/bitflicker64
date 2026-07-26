@@ -90,7 +90,7 @@
 
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
-- [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): skip init-store when graph.load_from_local_config is false
+- [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): gate init-store on a dedicated init_store.enabled option
 - [apache/hugegraph#3105](https://github.com/apache/hugegraph/pull/3105) — fix(bin): replace lsof with /dev/tcp in server check_port; remove dea…
 - [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 🗣 Commented on issue [#3118](https://github.com/apache/hugegraph/issues/3118#issuecomment-5085386264) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 1. 🗣 Commented on PR [#368](https://github.com/bitflicker64/Termstory/pull/368#issuecomment-5085068382) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#368](https://github.com/bitflicker64/Termstory/pull/368#issuecomment-5085067772) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🔀 Labeled PR [#360](https://github.com/bitflicker64/Termstory/pull/360) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🔀 Unlabeled PR [#360](https://github.com/bitflicker64/Termstory/pull/360) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Labeled issue [#41](https://github.com/bitflicker64/Termstory/issues/41) — "The Matrix Defrag" (Data Ingestion Animation) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Labeled issue [#42](https://github.com/bitflicker64/Termstory/issues/42) — "Heatmap Pulse & Cyber-Glitch" (Streak Micro-animations) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#368](https://github.com/bitflicker64/Termstory/pull/368#issuecomment-5085055833) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#368](https://github.com/bitflicker64/Termstory/pull/368#issuecomment-5085055023) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
-1. ⬆️ Pushed 0 commit(s) to `feat/helm` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 19:38</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 22:15</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
