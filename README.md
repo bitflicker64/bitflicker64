@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `docs/fix-dev-setup-instructions` in [dharapandya85/Termstory](https://github.com/dharapandya85/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#41](https://github.com/bitflicker64/Termstory/issues/41) — "The Matrix Defrag" (Data Ingestion Animation) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 👀 Reviewed PR [#360](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#360](https://github.com/bitflicker64/Termstory/pull/360#issuecomment-5082248812) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#3105](https://github.com/apache/hugegraph/pull/3105#issuecomment-5083059763) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 🗣 Commented on PR [#167](https://github.com/hugegraph/hugegraph/pull/167#issuecomment-5083054377) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. ♻️ Reopened PR [#167](https://github.com/hugegraph/hugegraph/pull/167) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ♻️ Reopened PR [#3105](https://github.com/apache/hugegraph/pull/3105) — pull request in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ❌ Closed PR [#167](https://github.com/hugegraph/hugegraph/pull/167) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 08:41</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 10:55</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
