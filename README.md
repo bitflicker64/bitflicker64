@@ -152,6 +152,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred [imbajin/goal-prompt](https://github.com/imbajin/goal-prompt)
 1. 🗣 Commented on PR [#171](https://github.com/hugegraph/hugegraph/pull/171#issuecomment-5083568591) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
@@ -161,7 +162,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 1. 🌱 Created branch `fix/no-init` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 1. 🐛 Opened issue [#3118](https://github.com/apache/hugegraph/issues/3118) — InitStore should skip local init when graph.load_from_local_config is explicitly false in [apache/hugegraph](https://github.com/apache/hugegraph)
 1. 🗣 Commented on PR [#367](https://github.com/bitflicker64/Termstory/pull/367#issuecomment-5083171811) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#3105](https://github.com/apache/hugegraph/pull/3105#issuecomment-5083059763) in [apache/hugegraph](https://github.com/apache/hugegraph)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 14:01</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 16:16</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
