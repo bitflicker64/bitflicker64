@@ -15,7 +15,7 @@
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
   <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1498-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1499-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
-1. 🗣 Commented on PR [#167](https://github.com/hugegraph/hugegraph/pull/167#issuecomment-5081710307) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#167](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `docs/fix-dev-setup-instructions` in [dharapandya85/Termstory](https://github.com/dharapandya85/Termstory)
 1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#293](https://github.com/bitflicker64/Termstory/issues/293) — [Medium] cli.py: `termstory restore` overwrites live DB with no confirmation in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 👀 Reviewed PR [#359](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#359](https://github.com/bitflicker64/Termstory/pull/359#issuecomment-5079687794) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#343](https://github.com/bitflicker64/Termstory/issues/343) — today summary can surface raw credential-bearing commands as highlights in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 👀 Reviewed PR [#351](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Closed issue [#41](https://github.com/bitflicker64/Termstory/issues/41) — "The Matrix Defrag" (Data Ingestion Animation) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 👀 Reviewed PR [#360](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#360](https://github.com/bitflicker64/Termstory/pull/360#issuecomment-5082248812) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 04:02</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-26 08:25</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
