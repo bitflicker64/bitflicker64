@@ -15,7 +15,7 @@
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
   <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1527-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1530-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -50,7 +50,7 @@
       <h3 align="center">Cilium / Hubble</h3>
       <div align="center">
         <a href="https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64">
-          <img src="https://img.shields.io/badge/4%20merged%20%C2%B7%201%20open-38C2FF?style=flat-square&logo=cilium"/>
+          <img src="https://img.shields.io/badge/4%20merged-38C2FF?style=flat-square&logo=cilium"/>
         </a>
         <br>
         <span>Hubble metrics label parsing, docs fixes, contributor tooling cleanup.</span>
@@ -92,7 +92,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 - [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): gate init-store on a dedicated init_store.enabled option
 - [apache/hugegraph#3105](https://github.com/apache/hugegraph/pull/3105) — fix(bin): replace lsof with /dev/tcp in server check_port; remove dea…
-- [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
 - [chaos-mesh/chaos-mesh#4931](https://github.com/chaos-mesh/chaos-mesh/pull/4931) — fix(e2e): replace deprecated wait.Poll with wait.PollUntilContextTimeout in pod_failure.go
@@ -102,6 +101,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
 - [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
 - [sugarlabs/musicblocks-v4#544](https://github.com/sugarlabs/musicblocks-v4/pull/544) — feat(singer): add 5 new builtin synth types (fm, am, pluck, membrane, noise)
+- [SakanaAI/LanguageEvolution#6](https://github.com/SakanaAI/LanguageEvolution/pull/6) — fix: rename stem_and_suffix to stem_and_affix in tests
 
 ---
 
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR [#2489](https://github.com/sustainable-computing-io/kepler/pull/2489#issuecomment-5090003504) in [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler)
-1. ⬆️ Pushed 0 commit(s) to `fix/gpu-nvml-init-container` in [bitflicker64/kepler](https://github.com/bitflicker64/kepler)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 🗣 Commented on PR [#171](https://github.com/hugegraph/hugegraph/pull/171#issuecomment-5089360020) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 🗣 Commented on PR [#3119](https://github.com/apache/hugegraph/pull/3119#issuecomment-5089359825) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 👀 Reviewed PR [#363](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 👀 Reviewed PR [#367](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 👀 Reviewed PR [#368](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#368](https://github.com/bitflicker64/Termstory/pull/368#issuecomment-5092354749) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Labeled issue [#362](https://github.com/bitflicker64/Termstory/issues/362) — Bug: Unbounded Memory Growth in `TimestampDetective._git_log_cache` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Labeled issue [#361](https://github.com/bitflicker64/Termstory/issues/361) — [Enhancement] Live-Reload Support for `~/.termstoryignore` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Labeled issue [#364](https://github.com/bitflicker64/Termstory/issues/364) — Bug: Prevent Thread Leaks on Hung NFS/SMB Mounts in `project.py` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Labeled issue [#366](https://github.com/bitflicker64/Termstory/issues/366) — Feature: Support `uv` Package Manager in Timestamp Detective in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on issue [#366](https://github.com/bitflicker64/Termstory/issues/366#issuecomment-5092322051) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🌱 Created branch `test/live-dataset-gate` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-27 10:12</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-27 14:32</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
