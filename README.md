@@ -50,7 +50,7 @@
       <h3 align="center">Cilium / Hubble</h3>
       <div align="center">
         <a href="https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64">
-          <img src="https://img.shields.io/badge/4%20merged-38C2FF?style=flat-square&logo=cilium"/>
+          <img src="https://img.shields.io/badge/4%20merged%20%C2%B7%201%20open-38C2FF?style=flat-square&logo=cilium"/>
         </a>
         <br>
         <span>Hubble metrics label parsing, docs fixes, contributor tooling cleanup.</span>
@@ -92,6 +92,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 - [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): gate init-store on a dedicated init_store.enabled option
 - [apache/hugegraph#3105](https://github.com/apache/hugegraph/pull/3105) — fix(bin): replace lsof with /dev/tcp in server check_port; remove dea…
+- [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
 - [chaos-mesh/chaos-mesh#4931](https://github.com/chaos-mesh/chaos-mesh/pull/4931) — fix(e2e): replace deprecated wait.Poll with wait.PollUntilContextTimeout in pod_failure.go
@@ -101,7 +102,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
 - [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
 - [sugarlabs/musicblocks-v4#544](https://github.com/sugarlabs/musicblocks-v4/pull/544) — feat(singer): add 5 new builtin synth types (fm, am, pluck, membrane, noise)
-- [SakanaAI/LanguageEvolution#6](https://github.com/SakanaAI/LanguageEvolution/pull/6) — fix: rename stem_and_suffix to stem_and_affix in tests
 
 ---
 
@@ -110,7 +110,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 <!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark" alt="contribution streak / summary"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=github-profile-summary-cards.vercel.app✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
+  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=streak-stats.demolab.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
 </p>
 
 ---
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on PR [#46652](https://github.com/cilium/cilium/pull/46652#issuecomment-5099544365) in [cilium/cilium](https://github.com/cilium/cilium)
+1. ⬆️ Pushed 0 commit(s) to `fix/renovate-entrypoint-gid` in [bitflicker64/cilium](https://github.com/bitflicker64/cilium)
+1. ⬆️ Pushed 0 commit(s) to `test/renovate-probe` in [bitflicker64/cilium](https://github.com/bitflicker64/cilium)
+1. ⬆️ Pushed 0 commit(s) to `test/renovate-probe` in [bitflicker64/cilium](https://github.com/bitflicker64/cilium)
+1. ⬆️ Pushed 0 commit(s) to `test/renovate-probe` in [bitflicker64/cilium](https://github.com/bitflicker64/cilium)
+1. 🌱 Created branch `test/renovate-probe` in [bitflicker64/cilium](https://github.com/bitflicker64/cilium)
 1. 👀 Reviewed PR [#3105](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `fix/lsof-port-check` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
 1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
-1. 🍴 Forked [imbajin/goal-prompt](https://github.com/imbajin/goal-prompt)
-1. 🗣 Commented on PR [#368](https://github.com/bitflicker64/Termstory/pull/368#issuecomment-5093346645) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-28 02:30</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-28 03:41</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
