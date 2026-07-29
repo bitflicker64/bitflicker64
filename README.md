@@ -92,7 +92,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 - [apache/hugegraph#3126](https://github.com/apache/hugegraph/pull/3126) — fix(server): configure finite DNS cache TTL
 - [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): gate init-store on a dedicated init_store.enabled option
-- [apache/hugegraph#3105](https://github.com/apache/hugegraph/pull/3105) — fix(bin): replace lsof with /dev/tcp in server check_port; remove dea…
+- [apache/hugegraph#3105](https://github.com/apache/hugegraph/pull/3105) — fix(bin): replace lsof port preflight with ss/netstat
 - [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
@@ -110,7 +110,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 <!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=streak-stats.demolab.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
+  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=github-readme-streak-stats.herokuapp.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
 </p>
 
 ---
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR [#173](https://github.com/hugegraph/hugegraph/pull/173#issuecomment-5118390862) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ♻️ Reopened PR [#173](https://github.com/hugegraph/hugegraph/pull/173) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 🗣 Commented on PR [#173](https://github.com/hugegraph/hugegraph/pull/173#issuecomment-5118384388) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ❌ Closed PR [#173](https://github.com/hugegraph/hugegraph/pull/173) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#173](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#173](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 📤 Opened PR [#3126](https://github.com/apache/hugegraph/pull/3126) — pull request in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 📤 Opened PR [#173](https://github.com/hugegraph/hugegraph/pull/173) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 🌱 Created branch `fix/hstore-dns-recovery-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 🌱 Created branch `fix/hstore-dns-recovery-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 🗣 Commented on PR [#171](https://github.com/hugegraph/hugegraph/pull/171#issuecomment-5120425996) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-29 14:34</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-29 16:40</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
