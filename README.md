@@ -15,7 +15,7 @@
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
   <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1537-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1541-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -39,7 +39,7 @@
       <h3 align="center">Apache HugeGraph ecosystem</h3>
       <div align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph">
-          <img src="https://img.shields.io/badge/24%20merged%20%C2%B7%202%20open-38C2FF?style=flat-square&logo=apache"/>
+          <img src="https://img.shields.io/badge/24%20merged%20%C2%B7%203%20open-38C2FF?style=flat-square&logo=apache"/>
         </a>
         <br>
         <span>Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.</span>
@@ -90,6 +90,7 @@
 
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
+- [apache/hugegraph#3126](https://github.com/apache/hugegraph/pull/3126) — fix(server): configure finite DNS cache TTL
 - [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): gate init-store on a dedicated init_store.enabled option
 - [apache/hugegraph#3105](https://github.com/apache/hugegraph/pull/3105) — fix(bin): replace lsof with /dev/tcp in server check_port; remove dea…
 - [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
@@ -101,7 +102,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [sustainable-computing-io/kepler#2489](https://github.com/sustainable-computing-io/kepler/pull/2489) — fix(manifests): add NVML init container for NVIDIA GPU Operator support
 - [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
 - [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
-- [sugarlabs/musicblocks-v4#544](https://github.com/sugarlabs/musicblocks-v4/pull/544) — feat(singer): add 5 new builtin synth types (fm, am, pluck, membrane, noise)
 
 ---
 
@@ -110,7 +110,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 <!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark" alt="contribution streak / summary"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=github-profile-summary-cards.vercel.app✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
+  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=streak-stats.demolab.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
 </p>
 
 ---
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 0 commit(s) to `notes/pr-divergence` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
-1. ℹ️ Closed issue [#342](https://github.com/bitflicker64/Termstory/issues/342) — config set accepts invalid types and silently coerces unknown booleans in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 👀 Reviewed PR [#370](https://github.com/bitflicker64/Termstory) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#370](https://github.com/bitflicker64/Termstory/pull/370#issuecomment-5108957185) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#370](https://github.com/bitflicker64/Termstory/pull/370#issuecomment-5108956515) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🐛 Opened issue [#3123](https://github.com/apache/hugegraph/issues/3123) — [Bug] wait-storage.sh binds to the first PD answering /v1/health and never fails over to other peers in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `notes/pr-divergence` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
-1. 🌱 Created branch `notes/pr-divergence` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
-1. 🗣 Commented on issue [#336](https://github.com/bitflicker64/Termstory/issues/336#issuecomment-5103204165) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#173](https://github.com/hugegraph/hugegraph/pull/173#issuecomment-5118390862) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ♻️ Reopened PR [#173](https://github.com/hugegraph/hugegraph/pull/173) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 🗣 Commented on PR [#173](https://github.com/hugegraph/hugegraph/pull/173#issuecomment-5118384388) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ❌ Closed PR [#173](https://github.com/hugegraph/hugegraph/pull/173) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#173](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#173](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 📤 Opened PR [#3126](https://github.com/apache/hugegraph/pull/3126) — pull request in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 📤 Opened PR [#173](https://github.com/hugegraph/hugegraph/pull/173) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 🌱 Created branch `fix/hstore-dns-recovery-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 🌱 Created branch `fix/hstore-dns-recovery-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-29 11:36</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-29 14:11</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
