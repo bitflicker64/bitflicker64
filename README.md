@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. ⬆️ Pushed 0 commit(s) to `master` in [PROJECT-bitflicker/hugegraph](https://github.com/PROJECT-bitflicker/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `master` in [PROJECT-bitflicker/hugegraph](https://github.com/PROJECT-bitflicker/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `master` in [PROJECT-bitflicker/hugegraph](https://github.com/PROJECT-bitflicker/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `integration/hstore-helm-upstream-prs` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
+1. ⬆️ Pushed 0 commit(s) to `integration/hstore-helm-upstream-prs` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
 1. 👀 Reviewed PR [#3128](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
 1. 🗣 Commented on PR [#176](https://github.com/hugegraph/hugegraph/pull/176#issuecomment-5131671377) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 1. 📤 Opened PR [#176](https://github.com/hugegraph/hugegraph/pull/176) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 📤 Opened PR [#3130](https://github.com/apache/hugegraph/pull/3130) — pull request in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 🌱 Created branch `fix/hstore-channel-refresh-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 🌱 Created branch `fix/hstore-channel-refresh-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
-1. 🔀 Unlabeled PR [#382](https://github.com/bitflicker64/Termstory/pull/382) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-30 14:36</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-30 16:52</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
