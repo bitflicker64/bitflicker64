@@ -15,7 +15,7 @@
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
   <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1549-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1553-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -39,7 +39,7 @@
       <h3 align="center">Apache HugeGraph ecosystem</h3>
       <div align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph">
-          <img src="https://img.shields.io/badge/24%20merged%20%C2%B7%205%20open-38C2FF?style=flat-square&logo=apache"/>
+          <img src="https://img.shields.io/badge/24%20merged%20%C2%B7%206%20open-38C2FF?style=flat-square&logo=apache"/>
         </a>
         <br>
         <span>Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.</span>
@@ -90,6 +90,7 @@
 
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
+- [apache/hugegraph#3130](https://github.com/apache/hugegraph/pull/3130) — fix(store): refresh gRPC channels after address changes
 - [apache/hugegraph#3129](https://github.com/apache/hugegraph/pull/3129) — fix(server): retry all PD peers while waiting for storage
 - [apache/hugegraph#3128](https://github.com/apache/hugegraph/pull/3128) — fix(store): bind each gRPC stub to its own channel
 - [apache/hugegraph#3126](https://github.com/apache/hugegraph/pull/3126) — fix(server): configure finite DNS cache TTL
@@ -101,7 +102,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [chaos-mesh/chaos-mesh#4931](https://github.com/chaos-mesh/chaos-mesh/pull/4931) — fix(e2e): replace deprecated wait.Poll with wait.PollUntilContextTimeout in pod_failure.go
 - [chaos-mesh/chaos-mesh#4930](https://github.com/chaos-mesh/chaos-mesh/pull/4930) — chore(ui): remove stale jss-to-styled codemod comment
 - [chaos-mesh/chaos-mesh#4929](https://github.com/chaos-mesh/chaos-mesh/pull/4929) — fix(ui): add dedicated icon for BlockChaos
-- [sustainable-computing-io/kepler#2489](https://github.com/sustainable-computing-io/kepler/pull/2489) — fix(manifests): add NVML init container for NVIDIA GPU Operator support
 
 ---
 
@@ -110,7 +110,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 <!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF" alt="contribution streak / summary"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark" alt="contribution streak / summary"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=streak-stats.demolab.com✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
+  <sub>stats hosts: stats=github-readme-stats-one-bice.vercel.app✓ · streak=github-profile-summary-cards.vercel.app✓ · langs=github-readme-stats-one-bice.vercel.app✓ · activity_graph=github-readme-activity-graph.vercel.app✓</sub>
 </p>
 
 ---
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR [#372](https://github.com/bitflicker64/Termstory/pull/372#issuecomment-5129033596) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🔀 Unlabeled PR [#372](https://github.com/bitflicker64/Termstory/pull/372) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. 🗣 Commented on PR [#372](https://github.com/bitflicker64/Termstory/pull/372#issuecomment-5129026995) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `integration/hstore-helm-upstream-prs` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
-1. ⬆️ Pushed 0 commit(s) to `integration/hstore-helm-upstream-prs` in [bitflicker64/hugegraph-helm-stack](https://github.com/bitflicker64/hugegraph-helm-stack)
-1. 🗣 Commented on PR [#205](https://github.com/Dreamstick9/filedrop/pull/205#issuecomment-5127298193) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. 🗣 Commented on PR [#205](https://github.com/Dreamstick9/filedrop/pull/205#issuecomment-5127292473) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. 🗣 Commented on PR [#203](https://github.com/Dreamstick9/filedrop/pull/203#issuecomment-5127270250) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. 🗣 Commented on PR [#200](https://github.com/Dreamstick9/filedrop/pull/200#issuecomment-5127260366) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
-1. 🗣 Commented on PR [#200](https://github.com/Dreamstick9/filedrop/pull/200#issuecomment-5127256446) in [Dreamstick9/filedrop](https://github.com/Dreamstick9/filedrop)
+1. 👀 Reviewed PR [#3128](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 🗣 Commented on PR [#176](https://github.com/hugegraph/hugegraph/pull/176#issuecomment-5131671377) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 📤 Opened PR [#176](https://github.com/hugegraph/hugegraph/pull/176) — pull request in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 📤 Opened PR [#3130](https://github.com/apache/hugegraph/pull/3130) — pull request in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 🌱 Created branch `fix/hstore-channel-refresh-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 🌱 Created branch `fix/hstore-channel-refresh-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 🔀 Unlabeled PR [#382](https://github.com/bitflicker64/Termstory/pull/382) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-30 11:23</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-30 14:00</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
