@@ -14,8 +14,8 @@
 <p align="center">
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
-  <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1560-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/upstream%20merged-38-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1567-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -25,7 +25,7 @@
 
 > Open source contributor focused on **reliable infrastructure**: Docker/ops tooling, networking observability, and production graph systems.
 >
-> **36 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and more — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
+> **38 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and more — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 >
 > Currently contributing around **Kubernetes, containerd, Cilium, and chaos/observability** tooling.
 
@@ -39,11 +39,11 @@
       <h3 align="center">Apache HugeGraph ecosystem</h3>
       <div align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph">
-          <img src="https://img.shields.io/badge/24%20merged%20%C2%B7%206%20open-38C2FF?style=flat-square&logo=apache"/>
+          <img src="https://img.shields.io/badge/26%20merged%20%C2%B7%204%20open-38C2FF?style=flat-square&logo=apache"/>
         </a>
         <br>
         <span>Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.</span>
-        <br><sub>Latest: <a href="https://github.com/apache/hugegraph-ai/pull/366">#366</a> — chore: introduce ty for type checking (non-blocking)</sub>
+        <br><sub>Latest: <a href="https://github.com/apache/hugegraph/pull/3129">#3129</a> — fix(server): retry all PD peers while waiting for storage</sub>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -91,8 +91,6 @@
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 - [apache/hugegraph#3130](https://github.com/apache/hugegraph/pull/3130) — fix(store): refresh gRPC channels after address changes
-- [apache/hugegraph#3129](https://github.com/apache/hugegraph/pull/3129) — fix(server): retry all PD peers while waiting for storage
-- [apache/hugegraph#3128](https://github.com/apache/hugegraph/pull/3128) — fix(store): bind each gRPC stub to its own channel
 - [apache/hugegraph#3126](https://github.com/apache/hugegraph/pull/3126) — fix(server): configure finite DNS cache TTL
 - [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): gate init-store on a dedicated init_store.enabled option
 - [apache/hugegraph#3105](https://github.com/apache/hugegraph/pull/3105) — fix(bin): replace lsof port preflight with ss/netstat
@@ -102,6 +100,8 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [chaos-mesh/chaos-mesh#4930](https://github.com/chaos-mesh/chaos-mesh/pull/4930) — chore(ui): remove stale jss-to-styled codemod comment
 - [chaos-mesh/chaos-mesh#4929](https://github.com/chaos-mesh/chaos-mesh/pull/4929) — fix(ui): add dedicated icon for BlockChaos
 - [sustainable-computing-io/kepler#2489](https://github.com/sustainable-computing-io/kepler/pull/2489) — fix(manifests): add NVML init container for NVIDIA GPU Operator support
+- [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
+- [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
 
 ---
 
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🔀 Merged PR [#3129](https://github.com/apache/hugegraph/pull/3129) — pull request in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 🗣 Commented on PR [#280](https://github.com/bitflicker64/Termstory/pull/280#issuecomment-5143596762) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#356](https://github.com/bitflicker64/Termstory/pull/356#issuecomment-5143584649) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ❌ Closed PR [#380](https://github.com/bitflicker64/Termstory/pull/380) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#380](https://github.com/bitflicker64/Termstory/pull/380#issuecomment-5143572851) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🔀 Merged PR [#3128](https://github.com/apache/hugegraph/pull/3128) — pull request in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. ❌ Closed PR [#393](https://github.com/bitflicker64/Termstory/pull/393) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. 🗣 Commented on PR [#393](https://github.com/bitflicker64/Termstory/pull/393#issuecomment-5143563865) in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#361](https://github.com/bitflicker64/Termstory/issues/361) — [Enhancement] Live-Reload Support for `~/.termstoryignore` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#338](https://github.com/bitflicker64/Termstory/issues/338) — Concurrent first-run commands can transiently corrupt or overwrite config.json in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#346](https://github.com/bitflicker64/Termstory/issues/346) — Web report embeds raw credential-looking commands in report.html in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#345](https://github.com/bitflicker64/Termstory/issues/345) — AI onboarding modal truncates provider actions in an 80-column terminal in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
-1. ℹ️ Closed issue [#256](https://github.com/bitflicker64/Termstory/issues/256) — [Medium] cli.py: `search --since`/`--until` leak raw `dateutil.parser` exceptions to the user in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ❌ Closed PR [#372](https://github.com/bitflicker64/Termstory/pull/372) — pull request in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 11:37</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 14:04</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
