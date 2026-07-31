@@ -152,6 +152,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on PR [#177](https://github.com/hugegraph/hugegraph/pull/177#issuecomment-5141158568) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
 1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
 1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
@@ -161,7 +162,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `feat/hstore-helm-chart` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. 👀 Reviewed PR [#177](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `feat/hstore-helm-chart` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 08:49</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 09:20</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
