@@ -15,7 +15,7 @@
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
   <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1554-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1558-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -74,7 +74,7 @@
       <h3 align="center">Kubernetes ecosystem</h3>
       <div align="center">
         <a href="https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+(repo%3Akubernetes%2Fkubernetes+OR+repo%3Achaos-mesh%2Fchaos-mesh+OR+repo%3Asustainable-computing-io%2Fkepler+OR+repo%3Apipe-cd%2Fpipecd)">
-          <img src="https://img.shields.io/badge/1%20merged%20%C2%B7%205%20open-38C2FF?style=flat-square&logo=kubernetes"/>
+          <img src="https://img.shields.io/badge/1%20merged%20%C2%B7%204%20open-38C2FF?style=flat-square&logo=kubernetes"/>
         </a>
         <br>
         <span>Cluster tooling, chaos e2e hygiene, energy exporter manifests, CD docs.</span>
@@ -99,9 +99,9 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
-- [chaos-mesh/chaos-mesh#4931](https://github.com/chaos-mesh/chaos-mesh/pull/4931) — fix(e2e): replace deprecated wait.Poll with wait.PollUntilContextTimeout in pod_failure.go
 - [chaos-mesh/chaos-mesh#4930](https://github.com/chaos-mesh/chaos-mesh/pull/4930) — chore(ui): remove stale jss-to-styled codemod comment
 - [chaos-mesh/chaos-mesh#4929](https://github.com/chaos-mesh/chaos-mesh/pull/4929) — fix(ui): add dedicated icon for BlockChaos
+- [sustainable-computing-io/kepler#2489](https://github.com/sustainable-computing-io/kepler/pull/2489) — fix(manifests): add NVML init container for NVIDIA GPU Operator support
 
 ---
 
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR [#171](https://github.com/hugegraph/hugegraph/pull/171#issuecomment-5134495821) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 🗣 Commented on PR [#171](https://github.com/hugegraph/hugegraph/pull/171#issuecomment-5134135968) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 🗣 Commented on PR [#171](https://github.com/hugegraph/hugegraph/pull/171#issuecomment-5134079673) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `feat/hstore-helm-chart` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 👀 Reviewed PR [#177](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `feat/hstore-helm-chart` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 03:54</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 08:49</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
