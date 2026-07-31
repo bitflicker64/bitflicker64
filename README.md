@@ -15,7 +15,7 @@
   <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
   <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
   <img src="https://img.shields.io/badge/upstream%20merged-36-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-1558-38C2FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/contributions%20(yr)-1560-38C2FF?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
 </p>
 
@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR [#177](https://github.com/hugegraph/hugegraph/pull/177#issuecomment-5141158568) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3130](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `fix/hstore-channel-refresh-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
-1. ⬆️ Pushed 0 commit(s) to `feat/hstore-helm-chart` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#177](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Closed issue [#361](https://github.com/bitflicker64/Termstory/issues/361) — [Enhancement] Live-Reload Support for `~/.termstoryignore` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Closed issue [#338](https://github.com/bitflicker64/Termstory/issues/338) — Concurrent first-run commands can transiently corrupt or overwrite config.json in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Closed issue [#346](https://github.com/bitflicker64/Termstory/issues/346) — Web report embeds raw credential-looking commands in report.html in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Closed issue [#345](https://github.com/bitflicker64/Termstory/issues/345) — AI onboarding modal truncates provider actions in an 80-column terminal in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ⬆️ Pushed 0 commit(s) to `main` in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
+1. ℹ️ Closed issue [#256](https://github.com/bitflicker64/Termstory/issues/256) — [Medium] cli.py: `search --since`/`--until` leak raw `dateutil.parser` exceptions to the user in [bitflicker64/Termstory](https://github.com/bitflicker64/Termstory)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 09:20</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-07-31 11:37</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
