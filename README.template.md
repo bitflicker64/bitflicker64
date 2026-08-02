@@ -5,147 +5,40 @@
   Do not hand-edit README.md — edit this template instead.
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2338C2FF&size=42&center=true&vCenter=true&height=60&width=600&lines=Himanshu+Verma;bitflicker64" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23A0D8FF&size=18&center=true&vCenter=true&height=30&width=700&lines=Open+Source+Contributor;Backend+%26+Infrastructure;Apache+HugeGraph+%C2%B7+Cilium+%C2%B7+containerd" />
-  <br>
-  <a href="https://killl.me" target="_blank">
-    <img src="https://img.shields.io/badge/killl.me-38C2FF?style=for-the-badge&logo=About.me&logoColor=white&label=portfolio"/>
-  </a>
+
+# Himanshu Verma
+
+Backend & infrastructure · open-source contributor
+
+[Portfolio](https://killl.me) · [LinkedIn](https://linkedin.com/in/himanshu-verma-40755a359) · [X](https://x.com/Bitflicker64)
+
 </div>
 
-<br>
+I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **{{UPSTREAM_MERGED}} merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 
-<p align="center">
-  <a href="https://github.com/bitflicker64?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbitflicker64&color=38C2FF&style=flat-square"/></a>
-  <a href="https://github.com/bitflicker64?tab=followers"><img src="https://img.shields.io/github/followers/bitflicker64?style=flat-square&color=38C2FF"/></a>
-  <img src="https://img.shields.io/badge/upstream%20merged-{{UPSTREAM_MERGED}}-38C2FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/contributions%20(yr)-{{YEAR_CONTRIBUTIONS}}-38C2FF?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=bitflicker64&color=38C2FF&style=flat-square&label=profile+views"/>
-</p>
+Currently contributing around Kubernetes, containerd, Cilium, and chaos/observability tooling.
 
----
-
-### 🚀 About Me
-
-> Open source contributor focused on **reliable infrastructure**: Docker/ops tooling, networking observability, and production graph systems.
->
-> **{{UPSTREAM_MERGED}} merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and more — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
->
-> Currently contributing around **Kubernetes, containerd, Cilium, and chaos/observability** tooling.
-
----
-
-### 🏆 Featured Upstream Work
+## Upstream work
 
 {{FEATURED_WORK}}
 
----
-
-### 📡 Open PR Radar
+## Open PRs
 
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 {{OPEN_PRS}}
 
----
-
-### 📊 GitHub Stats
-
-<!-- Stats image hosts are health-checked each run; dead mirrors are swapped automatically. -->
-<p align="center">
-  <img height="180em" src="{{STATS_CARD_URL}}" alt="GitHub stats"/>
-  <img height="180em" src="{{STREAK_CARD_URL}}" alt="contribution streak / summary"/>
-</p>
+## Stats
 
 <p align="center">
-  <img src="{{TOP_LANGS_URL}}" alt="top languages"/>
+  <img height="170em" src="{{STATS_CARD_URL}}" alt="GitHub stats"/>
+  <img height="170em" src="{{TOP_LANGS_URL}}" alt="top languages"/>
 </p>
 
-<p align="center">
-  <img src="{{ACTIVITY_GRAPH_URL}}" width="100%" alt="contribution activity graph"/>
-</p>
+## Tools
 
-<p align="center">
-  <sub>stats hosts: {{STATS_HOSTS_NOTE}}</sub>
-</p>
+Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker · containerd · Cilium · GitHub Actions · Linux
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Apache-0052CC?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cilium-F24C00?style=for-the-badge&logo=cilium&logoColor=white"/>
-</p>
-
----
-
-### 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-{{RECENT_ACTIVITY}}
-<!--END_SECTION:activity-->
-
----
-
-### 🎯 Current Focus
-
-<table>
-  <tr>
-    <td align="center">🐘</td>
-    <td><b>Apache HugeGraph</b> — Docker infra, CI/CD, operational tooling & docs</td>
-  </tr>
-  <tr>
-    <td align="center">🐝</td>
-    <td><b>Cilium / Hubble</b> — metrics correctness, docs, contributor tooling</td>
-  </tr>
-  <tr>
-    <td align="center">📦</td>
-    <td><b>containerd</b> — content store filters, CRI / mount internals</td>
-  </tr>
-  <tr>
-    <td align="center">☸️</td>
-    <td><b>Kubernetes ecosystem</b> — cluster tooling, chaos, and energy observability</td>
-  </tr>
-</table>
-
----
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://killl.me"><img src="https://img.shields.io/badge/portfolio-38C2FF?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://github.com/bitflicker64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/himanshu-verma-40755a359"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Bitflicker64"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/bitflicker64/bitflicker64/blob/output/snake.svg" width="80%" alt="contribution snake"/>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://holopin.me/bitflicker64" width="60%" alt="holopin badges"/>
-</p>
-
-<p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>{{LAST_UPDATED}}</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
-</p>
+<sub>Auto-updated {{LAST_UPDATED}} UTC · [workflow](.github/workflows/update-readme.yml)</sub>

@@ -12,7 +12,6 @@ import re
 import ssl
 import sys
 import urllib.error
-import urllib.parse
 import urllib.request
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -84,7 +83,6 @@ RADAR_PRIORITY = [
     "SakanaAI/LanguageEvolution",
 ]
 
-ACTIVITY_LIMIT = 10
 OPEN_PR_LIMIT = 12
 MAX_MERGED_PAGES = 5  # 100 nodes each
 
@@ -224,98 +222,8 @@ def fetch_open_prs() -> list[dict]:
     return data["user"]["pullRequests"]["nodes"] or []
 
 
-def fetch_recent_events() -> list[dict]:
-    # Public events only (fine for profile). Paginate lightly.
-    events = api_request(
-        f"https://api.github.com/users/{USERNAME}/events/public?per_page=30"
-    )
-    return events or []
-
-
 def is_upstream(repo_owner: str) -> bool:
     return repo_owner.lower() != USERNAME.lower()
-
-
-def format_activity(events: list[dict]) -> str:
-    lines: list[str] = []
-    for ev in events:
-        if len(lines) >= ACTIVITY_LIMIT:
-            break
-        et = ev.get("type")
-        repo = (ev.get("repo") or {}).get("name", "")
-        repo_url = f"https://github.com/{repo}"
-        payload = ev.get("payload") or {}
-
-        if et == "PushEvent":
-            size = payload.get("size") or len(payload.get("commits") or [])
-            ref = (payload.get("ref") or "").replace("refs/heads/", "")
-            lines.append(
-                f"1. ⬆️ Pushed {size} commit(s) to `{ref}` in [{repo}]({repo_url})"
-            )
-        elif et == "PullRequestEvent":
-            pr = payload.get("pull_request") or {}
-            action = payload.get("action", "updated")
-            num = pr.get("number") or payload.get("number")
-            title = pr.get("title") or "pull request"
-            url = pr.get("html_url") or f"{repo_url}/pull/{num}"
-            emoji = {
-                "opened": "📤",
-                "closed": "❌",
-                "reopened": "♻️",
-                "synchronize": "🔄",
-            }.get(action, "🔀")
-            if action == "closed" and pr.get("merged"):
-                emoji, action = "✅", "merged"
-            lines.append(
-                f"1. {emoji} {action.capitalize()} PR [#{num}]({url}) — {title} in [{repo}]({repo_url})"
-            )
-        elif et == "IssuesEvent":
-            issue = payload.get("issue") or {}
-            action = payload.get("action", "updated")
-            num = issue.get("number")
-            title = issue.get("title") or "issue"
-            url = issue.get("html_url") or f"{repo_url}/issues/{num}"
-            emoji = "🐛" if action == "opened" else "ℹ️"
-            lines.append(
-                f"1. {emoji} {action.capitalize()} issue [#{num}]({url}) — {title} in [{repo}]({repo_url})"
-            )
-        elif et == "IssueCommentEvent":
-            comment = payload.get("comment") or {}
-            issue = payload.get("issue") or {}
-            num = issue.get("number")
-            url = comment.get("html_url") or issue.get("html_url") or repo_url
-            kind = "PR" if issue.get("pull_request") else "issue"
-            lines.append(
-                f"1. 🗣 Commented on {kind} [#{num}]({url}) in [{repo}]({repo_url})"
-            )
-        elif et == "PullRequestReviewEvent":
-            pr = payload.get("pull_request") or {}
-            num = pr.get("number")
-            url = pr.get("html_url") or repo_url
-            lines.append(
-                f"1. 👀 Reviewed PR [#{num}]({url}) in [{repo}]({repo_url})"
-            )
-        elif et == "CreateEvent":
-            ref_type = payload.get("ref_type", "ref")
-            ref = payload.get("ref") or ""
-            lines.append(
-                f"1. 🌱 Created {ref_type} `{ref}` in [{repo}]({repo_url})"
-            )
-        elif et == "WatchEvent":
-            lines.append(f"1. ⭐ Starred [{repo}]({repo_url})")
-        elif et == "ForkEvent":
-            lines.append(f"1. 🍴 Forked [{repo}]({repo_url})")
-        elif et == "ReleaseEvent":
-            rel = payload.get("release") or {}
-            tag = rel.get("tag_name") or "release"
-            url = rel.get("html_url") or repo_url
-            lines.append(f"1. 🚀 Released [{tag}]({url}) in [{repo}]({repo_url})")
-        else:
-            continue
-
-    if not lines:
-        return "_No recent public activity found._"
-    return "\n".join(lines)
 
 
 def format_open_prs(prs: list[dict]) -> str:
@@ -374,7 +282,10 @@ def format_featured(merged: list[dict], open_prs: list[dict]) -> str:
         if full:
             open_by_repo[full].append(pr)
 
-    cards: list[str] = []
+    lines = [
+        "| Project | PRs | Focus |",
+        "| --- | --- | --- |",
+    ]
     for group in FEATURED_GROUPS:
         m_count = sum(len(merged_by_repo.get(r, [])) for r in group["repos"])
         o_count = sum(len(open_by_repo.get(r, [])) for r in group["repos"])
@@ -384,15 +295,11 @@ def format_featured(merged: list[dict], open_prs: list[dict]) -> str:
         for r in group["repos"]:
             samples.extend(merged_by_repo.get(r, []))
         samples.sort(key=lambda p: p.get("mergedAt") or "", reverse=True)
-        sample_html = ""
+        sample = ""
         if samples:
             s = samples[0]
-            st = re.sub(r"\s+", " ", (s.get("title") or "").strip())
-            if len(st) > 70:
-                st = st[:67] + "…"
-            sample_html = (
-                f'<br><sub>Latest: <a href="{s["url"]}">#{s["number"]}</a> — {st}</sub>'
-            )
+            st = _table_safe_title(s.get("title"))
+            sample = f'<br><sub>Latest: <a href="{s["url"]}">#{s["number"]}</a> — {st}</sub>'
         elif o_count:
             # Fall back to an open PR highlight.
             opens: list[dict] = []
@@ -400,39 +307,25 @@ def format_featured(merged: list[dict], open_prs: list[dict]) -> str:
                 opens.extend(open_by_repo.get(r, []))
             if opens:
                 s = opens[0]
-                st = re.sub(r"\s+", " ", (s.get("title") or "").strip())
-                if len(st) > 70:
-                    st = st[:67] + "…"
-                sample_html = (
-                    f'<br><sub>Open: <a href="{s["url"]}">#{s["number"]}</a> — {st}</sub>'
-                )
+                st = _table_safe_title(s.get("title"))
+                sample = f'<br><sub>Open: <a href="{s["url"]}">#{s["number"]}</a> — {st}</sub>'
 
-        badge = f'{m_count} merged'
+        counts = f"{m_count} merged"
         if o_count:
-            badge += f' · {o_count} open'
+            counts += f" · {o_count} open"
 
-        cards.append(
-            f"""    <td width="50%" valign="top">
-      <h3 align="center">{group["title"]}</h3>
-      <div align="center">
-        <a href="{group["search"]}">
-          <img src="https://img.shields.io/badge/{urllib.parse.quote(badge)}-38C2FF?style=flat-square&logo={group["logo"]}"/>
-        </a>
-        <br>
-        <span>{group["blurb"]}</span>
-        {sample_html}
-      </div>
-    </td>"""
+        lines.append(
+            f'| [{group["title"]}]({group["search"]}) | {counts} | {group["blurb"]}{sample} |'
         )
 
-    # 2x2 table
-    rows = []
-    for i in range(0, len(cards), 2):
-        left = cards[i]
-        right = cards[i + 1] if i + 1 < len(cards) else "    <td width=\"50%\"></td>"
-        rows.append(f"  <tr>\n{left}\n{right}\n  </tr>")
+    return "\n".join(lines)
 
-    return "<table>\n" + "\n".join(rows) + "\n</table>"
+
+def _table_safe_title(title: str | None) -> str:
+    st = re.sub(r"\s+", " ", (title or "").strip()).replace("|", "\\|")
+    if len(st) > 70:
+        st = st[:67] + "…"
+    return st
 
 
 def count_upstream_merged(merged: list[dict]) -> int:
@@ -478,8 +371,6 @@ def render() -> str:
     merged = fetch_all_merged_prs()
     print("Fetching open PRs…", file=sys.stderr)
     open_prs = fetch_open_prs()
-    print("Fetching recent events…", file=sys.stderr)
-    events = fetch_recent_events()
 
     upstream = count_upstream_merged(merged)
     last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
@@ -491,7 +382,6 @@ def render() -> str:
         "FOLLOWERS": str(user.get("followers", "")),
         "FEATURED_WORK": format_featured(merged, open_prs),
         "OPEN_PRS": format_open_prs(open_prs),
-        "RECENT_ACTIVITY": format_activity(events),
         "LAST_UPDATED": last_updated,
         **stats_urls,
     }
