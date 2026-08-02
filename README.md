@@ -152,16 +152,16 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on PR [#3119](https://github.com/apache/hugegraph/pull/3119#issuecomment-5152791382) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-1. 👀 Reviewed PR [#171](https://github.com/hugegraph/hugegraph) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-dns-recovery-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-dns-recovery-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 🗣 Commented on PR [#3119](https://github.com/apache/hugegraph/pull/3119#issuecomment-5155653907) in [apache/hugegraph](https://github.com/apache/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
 1. ⬆️ Pushed 0 commit(s) to `fix/no-init` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
-1. 🗣 Commented on PR [#3132](https://github.com/apache/hugegraph/pull/3132#issuecomment-5152674031) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
-1. 👀 Reviewed PR [#3119](https://github.com/apache/hugegraph) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. 🗣 Commented on PR [#173](https://github.com/hugegraph/hugegraph/pull/173#issuecomment-5155561724) in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. 🗣 Commented on PR [#3126](https://github.com/apache/hugegraph/pull/3126#issuecomment-5155561632) in [apache/hugegraph](https://github.com/apache/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-dns-recovery-3124` in [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
+1. ⬆️ Pushed 0 commit(s) to `fix/hstore-dns-recovery-3124` in [bitflicker64/hugegraph](https://github.com/bitflicker64/hugegraph)
+1. 🗣 Commented on PR [#3132](https://github.com/apache/hugegraph/pull/3132#issuecomment-5155533587) in [apache/hugegraph](https://github.com/apache/hugegraph)
 <!--END_SECTION:activity-->
 
 ---
@@ -211,5 +211,5 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 </p>
 
 <p align="center">
-  <sub>🤖 README auto-regenerated · last updated <b>2026-08-02 03:57</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
+  <sub>🤖 README auto-regenerated · last updated <b>2026-08-02 08:23</b> UTC · <a href=".github/workflows/update-readme.yml">workflow</a></sub>
 </p>
