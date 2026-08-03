@@ -28,7 +28,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 - [apache/hugegraph#3130](https://github.com/apache/hugegraph/pull/3130) — fix(store): refresh gRPC channels after address changes
 - [apache/hugegraph#3126](https://github.com/apache/hugegraph/pull/3126) — fix(server): configure finite DNS cache TTL
-- [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(hugegraph-dist): gate init-store on a dedicated init_store.enabled option
+- [apache/hugegraph#3119](https://github.com/apache/hugegraph/pull/3119) — fix(dist): gate init-store on a dedicated init_store.enabled option
 - [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
@@ -52,4 +52,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-08-03 09:43 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-08-03 10:08 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
