@@ -27,7 +27,7 @@ Currently contributing around Kubernetes, containerd, Cilium, and chaos/observab
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 - [apache/hugegraph#3130](https://github.com/apache/hugegraph/pull/3130) — fix(store): refresh gRPC channels after address changes
-- [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — fix(renovate): pass GID and docker group when dropping privileges in entrypoint
+- [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — renovate: Fix primary GID of the ubuntu user and restore builder.sh root check
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
 - [chaos-mesh/chaos-mesh#4930](https://github.com/chaos-mesh/chaos-mesh/pull/4930) — chore(ui): remove stale jss-to-styled codemod comment
@@ -52,4 +52,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-08-08 04:31 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-08-08 06:51 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
