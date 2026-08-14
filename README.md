@@ -27,7 +27,7 @@ Currently contributing around Kubernetes, containerd, Cilium, and chaos/observab
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
 - [apache/hugegraph#3149](https://github.com/apache/hugegraph/pull/3149) — feat(docker): add attachable Hubble Compose add-on for the 3-node cluster
-- [apache/hugegraph#3130](https://github.com/apache/hugegraph/pull/3130) — fix(store): refresh gRPC channels after address changes
+- [apache/hugegraph#3130](https://github.com/apache/hugegraph/pull/3130) — fix(store): recover retries after Store replacement
 - [cilium/cilium#46652](https://github.com/cilium/cilium/pull/46652) — renovate: Fix primary GID of the ubuntu user and restore builder.sh root check
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
@@ -52,4 +52,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-08-14 05:08 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-08-14 07:24 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
