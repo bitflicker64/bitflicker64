@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-14T21:43:40Z",
+  "checked_at": "2026-08-15T01:53:23Z",
   "username": "bitflicker64",
   "slots": {
     "stats": {
@@ -13,7 +13,7 @@
           "ok": false,
           "status": 503,
           "bytes": 0,
-          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  iad1::w75sk-1786743820029-bbb8aa7ddeb2 "
+          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  cle1::lkhpw-1786758778827-4ccaa1153f1b "
         },
         {
           "url": "https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true",
@@ -26,16 +26,32 @@
       ]
     },
     "streak": {
-      "url": "https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF",
-      "host": "streak-stats.demolab.com",
+      "url": "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark",
+      "host": "github-profile-summary-cards.vercel.app",
       "healthy": true,
       "tried": [
         {
           "url": "https://streak-stats.demolab.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF",
           "host": "streak-stats.demolab.com",
+          "ok": false,
+          "status": null,
+          "bytes": 0,
+          "error": "TimeoutError: The read operation timed out"
+        },
+        {
+          "url": "https://github-readme-streak-stats.herokuapp.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF",
+          "host": "github-readme-streak-stats.herokuapp.com",
+          "ok": false,
+          "status": null,
+          "bytes": 0,
+          "error": "TimeoutError: The read operation timed out"
+        },
+        {
+          "url": "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark",
+          "host": "github-profile-summary-cards.vercel.app",
           "ok": true,
           "status": 200,
-          "bytes": 7071,
+          "bytes": 4664,
           "error": ""
         }
       ]
@@ -51,7 +67,7 @@
           "ok": false,
           "status": 503,
           "bytes": 0,
-          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  iad1::8m5sw-1786743820222-68f0a5ebb751 "
+          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  cle1::hm69h-1786758803388-e4c521a6240f "
         },
         {
           "url": "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445",
@@ -73,7 +89,7 @@
           "host": "github-readme-activity-graph.vercel.app",
           "ok": true,
           "status": 200,
-          "bytes": 18356,
+          "bytes": 18345,
           "error": ""
         }
       ]
