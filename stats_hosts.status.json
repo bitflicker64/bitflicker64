@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-20T04:03:34Z",
+  "checked_at": "2026-08-20T07:10:42Z",
   "username": "bitflicker64",
   "slots": {
     "stats": {
@@ -13,7 +13,7 @@
           "ok": false,
           "status": 503,
           "bytes": 0,
-          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  pdx1::ph4nv-1787198589769-621c11abd50c "
+          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  sfo1::cdzrv-1787209828958-cfcd78e02496 "
         },
         {
           "url": "https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true",
@@ -26,8 +26,8 @@
       ]
     },
     "streak": {
-      "url": "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark",
-      "host": "github-profile-summary-cards.vercel.app",
+      "url": "https://github-readme-streak-stats.herokuapp.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF",
+      "host": "github-readme-streak-stats.herokuapp.com",
       "healthy": true,
       "tried": [
         {
@@ -41,17 +41,9 @@
         {
           "url": "https://github-readme-streak-stats.herokuapp.com/?user=bitflicker64&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakNum=BDC3CF&sideNums=BDC3CF&sideLabels=BDC3CF&currStreakLabel=38C2FF",
           "host": "github-readme-streak-stats.herokuapp.com",
-          "ok": false,
-          "status": null,
-          "bytes": 0,
-          "error": "TimeoutError: The read operation timed out"
-        },
-        {
-          "url": "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitflicker64&theme=github_dark",
-          "host": "github-profile-summary-cards.vercel.app",
           "ok": true,
           "status": 200,
-          "bytes": 4664,
+          "bytes": 7069,
           "error": ""
         }
       ]
@@ -67,7 +59,7 @@
           "ok": false,
           "status": 503,
           "bytes": 0,
-          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  pdx1::l76jn-1787198614360-6a14b1bebd2e "
+          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  sfo1::qdgs5-1787209842150-1ac80c36062d "
         },
         {
           "url": "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445",
