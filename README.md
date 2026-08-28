@@ -34,7 +34,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [sustainable-computing-io/kepler#2489](https://github.com/sustainable-computing-io/kepler/pull/2489) — fix(manifests): add NVML init container for NVIDIA GPU Operator support
 - [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
 - [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
-- [sugarlabs/musicblocks-v4#544](https://github.com/sugarlabs/musicblocks-v4/pull/544) — feat(singer): add 5 new builtin synth types (fm, am, pluck, membrane, noise)
 - [SakanaAI/LanguageEvolution#6](https://github.com/SakanaAI/LanguageEvolution/pull/6) — fix: rename stem_and_suffix to stem_and_affix in tests
 - [Chhunneng/programming-starters-project#47](https://github.com/Chhunneng/programming-starters-project/pull/47) — Update encrypt.md with installation instructions
 - [hugegraph/hugegraph#192](https://github.com/hugegraph/hugegraph/pull/192) — feat(docker): add attachable Hubble Compose add-on for the 3-node cluster
@@ -52,4 +51,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-08-28 15:28 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-08-28 21:45 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
