@@ -37,7 +37,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
 - [SakanaAI/LanguageEvolution#6](https://github.com/SakanaAI/LanguageEvolution/pull/6) — fix: rename stem_and_suffix to stem_and_affix in tests
 - [Chhunneng/programming-starters-project#47](https://github.com/Chhunneng/programming-starters-project/pull/47) — Update encrypt.md with installation instructions
-- [hugegraph/actions#29](https://github.com/hugegraph/actions/pull/29) — ci(hubble): stamp org.opencontainers.image.revision on the image
+- [hugegraph/actions#30](https://github.com/hugegraph/actions/pull/30) — fix(ci): base compose stack on hstore topology
 
 ## Stats
 
@@ -52,4 +52,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-09-03 03:10 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-09-03 04:39 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
