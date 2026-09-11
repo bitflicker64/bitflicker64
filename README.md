@@ -37,7 +37,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [SakanaAI/LanguageEvolution#6](https://github.com/SakanaAI/LanguageEvolution/pull/6) — fix: rename stem_and_suffix to stem_and_affix in tests
 - [Chhunneng/programming-starters-project#47](https://github.com/Chhunneng/programming-starters-project/pull/47) — Update encrypt.md with installation instructions
 - [argoproj/argo-cd#29637](https://github.com/argoproj/argo-cd/pull/29637) — fix(applicationset): paginate Gitea SCM provider and PR generator (#29635)
-- [hugegraph/hugegraph#219](https://github.com/hugegraph/hugegraph/pull/219) — fix(pd): validate REST credentials and return 401 on refusal
+- [hugegraph/actions#31](https://github.com/hugegraph/actions/pull/31) — fix(ci): provide PD auth secret to the compose precheck
 
 ## Stats
 
@@ -52,4 +52,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-09-11 04:48 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-09-11 10:41 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
