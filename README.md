@@ -9,7 +9,7 @@ Backend & infrastructure · open-source contributor
 
 </div>
 
-I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **73 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
+I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **74 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 
 Currently contributing around Kubernetes, containerd, Cilium, and chaos/observability tooling.
 
@@ -52,4 +52,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-09-13 04:55 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-09-13 11:10 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
