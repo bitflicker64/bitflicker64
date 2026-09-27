@@ -9,7 +9,7 @@ Backend & infrastructure · open-source contributor
 
 </div>
 
-I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **79 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
+I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **80 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 
 Currently contributing around Kubernetes, containerd, Cilium, and chaos/observability tooling.
 
@@ -20,7 +20,7 @@ Currently contributing around Kubernetes, containerd, Cilium, and chaos/observab
 | [Apache HugeGraph ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph) | 60 merged · 3 open | Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph/pull/3234">#3234</a> — fix(store): rejoin a Store rebuilt empty at its old raft address</sub> |
 | [Cilium / Hubble](https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64) | 6 merged · 1 open | Hubble metrics label parsing, docs fixes, contributor tooling cleanup.<br><sub>Latest: <a href="https://github.com/cilium/cilium/pull/48579">#48579</a> — gha: Greet first-time issue reporters, not just PR authors</sub> |
 | [containerd](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Abitflicker64) | 0 merged · 1 open | Content-store size filtering (`AdaptInfo`) and CRI-adjacent work.<br><sub>Open: <a href="https://github.com/containerd/containerd/pull/13576">#13576</a> — content: support size based filtering in AdaptInfo</sub> |
-| [Kubernetes ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+(repo%3Akubernetes%2Fkubernetes+OR+repo%3Achaos-mesh%2Fchaos-mesh+OR+repo%3Asustainable-computing-io%2Fkepler+OR+repo%3Apipe-cd%2Fpipecd)) | 2 merged · 6 open | Cluster tooling, chaos e2e hygiene, energy exporter manifests, CD docs.<br><sub>Latest: <a href="https://github.com/sustainable-computing-io/kepler/pull/2489">#2489</a> — fix(manifests): add NVML init container for NVIDIA GPU Operator sup…</sub> |
+| [Kubernetes ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+(repo%3Akubernetes%2Fkubernetes+OR+repo%3Achaos-mesh%2Fchaos-mesh+OR+repo%3Asustainable-computing-io%2Fkepler+OR+repo%3Apipe-cd%2Fpipecd)) | 3 merged · 5 open | Cluster tooling, chaos e2e hygiene, energy exporter manifests, CD docs.<br><sub>Latest: <a href="https://github.com/sustainable-computing-io/kepler/pull/2550">#2550</a> — chore: add bitflicker64 as maintainer</sub> |
 
 ## Open PRs
 
@@ -36,8 +36,8 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [kubernetes/kubernetes#138949](https://github.com/kubernetes/kubernetes/pull/138949) — cluster/addons/addon-manager: fix stale registry reference in README
 - [chaos-mesh/chaos-mesh#4930](https://github.com/chaos-mesh/chaos-mesh/pull/4930) — chore(ui): remove stale jss-to-styled codemod comment
 - [chaos-mesh/chaos-mesh#4929](https://github.com/chaos-mesh/chaos-mesh/pull/4929) — fix(ui): add dedicated icon for BlockChaos
-- [sustainable-computing-io/kepler#2550](https://github.com/sustainable-computing-io/kepler/pull/2550) — chore: add bitflicker64 as maintainer
 - [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
+- [NousResearch/hermes-agent#44751](https://github.com/NousResearch/hermes-agent/pull/44751) — fix(cron): add seconds support and honor sub-minute schedules
 
 ## Stats
 
@@ -52,4 +52,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-09-27 05:25 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-09-27 11:29 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
