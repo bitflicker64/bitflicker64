@@ -3,13 +3,15 @@
 
 # Himanshu Verma
 
-Backend & infrastructure · open-source contributor
+Backend & infrastructure · Kepler maintainer (CNCF)
 
 [Portfolio](https://killl.me) · [LinkedIn](https://linkedin.com/in/himanshu-verma-40755a359) · [X](https://x.com/Bitflicker64)
 
 </div>
 
 I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **80 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
+
+Maintainer and Technical Committee member on [Kepler](https://github.com/sustainable-computing-io/kepler), a CNCF Sandbox project that measures the energy use of Kubernetes workloads. I work on its GPU device layer, Helm manifests and e2e/CI, and review across the project.
 
 Currently contributing around Kubernetes, containerd, Cilium, and chaos/observability tooling.
 
@@ -52,4 +54,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-09-27 11:29 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-09-27 11:47 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
