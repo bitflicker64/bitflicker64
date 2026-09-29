@@ -9,7 +9,7 @@ Backend & infrastructure · Kepler maintainer (CNCF)
 
 </div>
 
-I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **80 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
+I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **81 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 
 Maintainer and Technical Committee member on [Kepler](https://github.com/sustainable-computing-io/kepler), a CNCF Sandbox project that measures the energy use of Kubernetes workloads. I work on its GPU device layer, Helm manifests and e2e/CI, and review across the project.
 
@@ -54,4 +54,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-09-29 18:07 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-09-29 21:56 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
