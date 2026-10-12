@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T11:01:55Z",
+  "checked_at": "2026-10-12T21:18:22Z",
   "username": "bitflicker64",
   "slots": {
     "stats": {
@@ -58,7 +58,7 @@
           "ok": false,
           "status": 402,
           "bytes": 0,
-          "error": "Payment required  DEPLOYMENT_DISABLED  pdx1::ctf7d-1791802915560-91665e1892ad "
+          "error": "Payment required  DEPLOYMENT_DISABLED  iad1::mw4bq-1791839902467-247587c3359c "
         }
       ]
     }
