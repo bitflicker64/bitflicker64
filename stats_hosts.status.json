@@ -1,18 +1,26 @@
 {
-  "checked_at": "2026-10-28T13:08:45Z",
+  "checked_at": "2026-10-28T20:20:52Z",
   "username": "bitflicker64",
   "slots": {
     "stats": {
-      "url": "https://github-readme-stats.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true",
-      "host": "github-readme-stats.vercel.app",
+      "url": "https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true",
+      "host": "github-readme-stats-one-bice.vercel.app",
       "healthy": true,
       "tried": [
         {
           "url": "https://github-readme-stats.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true",
           "host": "github-readme-stats.vercel.app",
+          "ok": false,
+          "status": 503,
+          "bytes": 0,
+          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  pdx1::qh9zw-1793218852054-fce508ffda51 "
+        },
+        {
+          "url": "https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true",
+          "host": "github-readme-stats-one-bice.vercel.app",
           "ok": true,
           "status": 200,
-          "bytes": 713,
+          "bytes": 7592,
           "error": ""
         }
       ]
@@ -33,16 +41,24 @@
       ]
     },
     "langs": {
-      "url": "https://github-readme-stats.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445",
-      "host": "github-readme-stats.vercel.app",
+      "url": "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445",
+      "host": "github-readme-stats-one-bice.vercel.app",
       "healthy": true,
       "tried": [
         {
           "url": "https://github-readme-stats.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445",
           "host": "github-readme-stats.vercel.app",
+          "ok": false,
+          "status": 503,
+          "bytes": 0,
+          "error": "The deployment is currently unavailable  DEPLOYMENT_PAUSED  pdx1::w47x2-1793218852582-b0f933c51805 "
+        },
+        {
+          "url": "https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445",
+          "host": "github-readme-stats-one-bice.vercel.app",
           "ok": true,
           "status": 200,
-          "bytes": 5729,
+          "bytes": 4986,
           "error": ""
         }
       ]
@@ -58,7 +74,7 @@
           "ok": false,
           "status": 402,
           "bytes": 0,
-          "error": "Payment required  DEPLOYMENT_DISABLED  iad1::h5fsp-1793192925438-52bf69acdf7f "
+          "error": "Payment required  DEPLOYMENT_DISABLED  pdx1::jnqwd-1793218852786-8333a9395bfe "
         }
       ]
     }
