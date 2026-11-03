@@ -33,7 +33,7 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [apache/hugegraph#3383](https://github.com/apache/hugegraph/pull/3383) — fix(pd): wait for a ReadIndex before serving get and scanPrefix
 - [apache/hugegraph#3382](https://github.com/apache/hugegraph/pull/3382) — fix(pd): make the TTL cleanup delete the expired key under its marker
 - [apache/hugegraph#3376](https://github.com/apache/hugegraph/pull/3376) — feat(pd): commit schema keys and a per-graph record as one raft entry
-- [apache/hugegraph-doc#494](https://github.com/apache/hugegraph-doc/pull/494) — doc: add Helm chart deployment page for Kubernetes
+- [apache/hugegraph-doc#560](https://github.com/apache/hugegraph-doc/pull/560) — docs(helm): list Helm under Operate and fix optional engine details
 - [containerd/containerd#13576](https://github.com/containerd/containerd/pull/13576) — content: support size based filtering in AdaptInfo
 - [kubernetes/kubernetes#142241](https://github.com/kubernetes/kubernetes/pull/142241) — Mask static pod URL headers served by kubelet /configz
 - [kubernetes/kubernetes#142240](https://github.com/kubernetes/kubernetes/pull/142240) — controller: pad the pod template hash to a fixed length
@@ -56,4 +56,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-11-03 13:42 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-03 19:34 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
