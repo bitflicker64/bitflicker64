@@ -12,6 +12,8 @@
 
 Backend & infrastructure
 
+Guest on [Apache PlusOne](https://plusone.apache.org/2026/11/02/apache-hugegraph-with-himanshu-verma/), the official ASF podcast, talking about Apache HugeGraph (Nov 2026)
+
 [Portfolio](https://killl.me) · [LinkedIn](https://linkedin.com/in/himanshu-verma-40755a359) · [X](https://x.com/Bitflicker64)
 
 </div>
@@ -21,6 +23,10 @@ Maintainer and Technical Committee member on [Kepler](https://github.com/sustain
 I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **{{UPSTREAM_MERGED}} merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 
 Currently contributing around Kubernetes, containerd, Cilium, and chaos/observability tooling.
+
+## Talks and media
+
+- **Apache PlusOne, the official podcast of the Apache Software Foundation (November 2026):** [Apache HugeGraph, with Himanshu Verma](https://www.youtube.com/watch?v=yuq_AQ0C4cI) ([audio and episode page](https://plusone.apache.org/2026/11/02/apache-hugegraph-with-himanshu-verma/)). Why graphs matter for AI retrieval, how HugeGraph compares to Neo4j, JanusGraph and Apache AGE, the 1.8 release work, and how to start contributing.
 
 ## Upstream work
 
