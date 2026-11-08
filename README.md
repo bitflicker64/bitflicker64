@@ -15,7 +15,7 @@ Guest on [Apache PlusOne](https://plusone.apache.org/2026/11/02/apache-hugegraph
 
 Maintainer and Technical Committee member on [Kepler](https://github.com/sustainable-computing-io/kepler), a CNCF Sandbox project that measures the energy use of Kubernetes workloads. I work on its GPU device layer, Helm manifests and e2e/CI, and review across the project.
 
-I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **100 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
+I work on reliable infrastructure: Docker/ops tooling, networking observability, and production graph systems. **106 merged upstream PRs** across the Apache HugeGraph ecosystem, Cilium, PipeCD, and others — healthchecks, process supervision, networking, auth, CI, and docs that keep systems operable.
 
 Currently contributing around Kubernetes, containerd, Cilium, and chaos/observability tooling.
 
@@ -27,7 +27,7 @@ Currently contributing around Kubernetes, containerd, Cilium, and chaos/observab
 
 | Project | PRs | Focus |
 | --- | --- | --- |
-| [Apache HugeGraph ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph) | 70 merged · 26 open | Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph-doc/pull/538">#538</a> — docs(pd): document the raft connect and install-snapshot timeouts</sub> |
+| [Apache HugeGraph ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph) | 76 merged · 20 open | Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph/pull/3459">#3459</a> — refactor(core): use pattern matching & try-with-res on all paths</sub> |
 | [Cilium / Hubble](https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64) | 7 merged | Hubble metrics label parsing, docs fixes, contributor tooling cleanup.<br><sub>Latest: <a href="https://github.com/cilium/cilium/pull/48870">#48870</a> — helm: allow removing port 80 from the cilium-ingress service</sub> |
 | [containerd](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Abitflicker64) | 0 merged · 1 open | Content-store size filtering (`AdaptInfo`) and CRI-adjacent work.<br><sub>Open: <a href="https://github.com/containerd/containerd/pull/13576">#13576</a> — content: support size based filtering in AdaptInfo</sub> |
 | [Kubernetes ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+(repo%3Akubernetes%2Fkubernetes+OR+repo%3Achaos-mesh%2Fchaos-mesh+OR+repo%3Asustainable-computing-io%2Fkepler+OR+repo%3Apipe-cd%2Fpipecd)) | 4 merged · 6 open | Cluster tooling, chaos e2e hygiene, energy exporter manifests, CD docs.<br><sub>Latest: <a href="https://github.com/sustainable-computing-io/kepler/pull/2599">#2599</a> — test(e2e): run the GPU e2e tests on a real NVIDIA GPU</sub> |
@@ -41,13 +41,13 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [apache/hugegraph#3463](https://github.com/apache/hugegraph/pull/3463) — fix(cluster-test): return PD REST addresses and retry node cleanup
 - [apache/hugegraph#3462](https://github.com/apache/hugegraph/pull/3462) — fix(dist): keep the cause when a plugin or Gremlin Server fails
 - [apache/hugegraph#3461](https://github.com/apache/hugegraph/pull/3461) — fix(rocksdb): skip empty SST tables on close and close listCFs options
-- [apache/hugegraph#3460](https://github.com/apache/hugegraph/pull/3460) — fix(api): report a missing Cypher config file and close its reader
-- [apache/hugegraph#3459](https://github.com/apache/hugegraph/pull/3459) — refactor(core): use pattern matching and close readers on all paths
 - [apache/hugegraph#3458](https://github.com/apache/hugegraph/pull/3458) — fix(core): close merged origin iterator and fix two edge cases
 - [apache/hugegraph#3457](https://github.com/apache/hugegraph/pull/3457) — fix(commons): correct small perf and util edge cases
 - [apache/hugegraph#3456](https://github.com/apache/hugegraph/pull/3456) — fix(commons): close batch iterators and keep failure causes
 - [apache/hugegraph#3455](https://github.com/apache/hugegraph/pull/3455) — refactor(struct): use pattern matching and close LZ4 streams
-- [apache/hugegraph#3454](https://github.com/apache/hugegraph/pull/3454) — fix(struct): correct small schema, analyzer and edge label bugs
+- [apache/hugegraph#3383](https://github.com/apache/hugegraph/pull/3383) — fix(pd): wait for a ReadIndex before serving get and scanPrefix
+- [apache/hugegraph#3382](https://github.com/apache/hugegraph/pull/3382) — fix(pd): make the TTL cleanup delete the expired key under its marker
+- [apache/hugegraph#3376](https://github.com/apache/hugegraph/pull/3376) — feat(pd): commit schema keys and a per-graph record as one raft entry
 
 ## Stats
 
@@ -62,4 +62,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-11-07 21:57 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-08 04:41 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
