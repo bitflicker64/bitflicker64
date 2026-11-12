@@ -9,6 +9,8 @@ Backend & infrastructure
 
 Guest on [Apache PlusOne](https://plusone.apache.org/2026/11/02/apache-hugegraph-with-himanshu-verma/), the official ASF podcast, talking about Apache HugeGraph (Nov 2026)
 
+Member of GitHub's [Maintainer Community](https://github.blog/open-source/maintainers/calling-all-open-source-maintainers/) (Nov 2026)
+
 [Portfolio](https://killl.me) · [LinkedIn](https://linkedin.com/in/himanshu-verma-40755a359) · [X](https://x.com/Bitflicker64)
 
 </div>
@@ -62,4 +64,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-11-12 00:48 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-12 04:21 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
