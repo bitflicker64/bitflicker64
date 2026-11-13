@@ -29,7 +29,7 @@ Currently contributing around Kubernetes, containerd, Cilium, and chaos/observab
 
 | Project | PRs | Focus |
 | --- | --- | --- |
-| [Apache HugeGraph ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph) | 92 merged · 4 open | Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph/pull/3461">#3461</a> — fix(rocksdb): skip empty SST tables on close</sub> |
+| [Apache HugeGraph ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+org%3Aapache+hugegraph) | 92 merged · 5 open | Docker healthchecks, process supervision, bridge networking, CI, auth, and ops docs.<br><sub>Latest: <a href="https://github.com/apache/hugegraph/pull/3461">#3461</a> — fix(rocksdb): skip empty SST tables on close</sub> |
 | [Cilium / Hubble](https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Abitflicker64) | 7 merged | Hubble metrics label parsing, docs fixes, contributor tooling cleanup.<br><sub>Latest: <a href="https://github.com/cilium/cilium/pull/48870">#48870</a> — helm: allow removing port 80 from the cilium-ingress service</sub> |
 | [containerd](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Abitflicker64) | 0 merged · 1 open | Content-store size filtering (`AdaptInfo`) and CRI-adjacent work.<br><sub>Open: <a href="https://github.com/containerd/containerd/pull/13576">#13576</a> — content: support size based filtering in AdaptInfo</sub> |
 | [Kubernetes ecosystem](https://github.com/pulls?q=is%3Apr+author%3Abitflicker64+(repo%3Akubernetes%2Fkubernetes+OR+repo%3Achaos-mesh%2Fchaos-mesh+OR+repo%3Asustainable-computing-io%2Fkepler+OR+repo%3Apipe-cd%2Fpipecd)) | 4 merged · 6 open | Cluster tooling, chaos e2e hygiene, energy exporter manifests, CD docs.<br><sub>Latest: <a href="https://github.com/sustainable-computing-io/kepler/pull/2599">#2599</a> — test(e2e): run the GPU e2e tests on a real NVIDIA GPU</sub> |
@@ -38,6 +38,7 @@ Currently contributing around Kubernetes, containerd, Cilium, and chaos/observab
 
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
+- [apache/hugegraph#3477](https://github.com/apache/hugegraph/pull/3477) — fix(server): keep schema caches current across HStore Servers
 - [apache/hugegraph#3383](https://github.com/apache/hugegraph/pull/3383) — fix(pd): wait for a ReadIndex before serving get and scanPrefix
 - [apache/hugegraph#3382](https://github.com/apache/hugegraph/pull/3382) — fix(pd): make the TTL cleanup delete the expired key under its marker
 - [apache/hugegraph#3376](https://github.com/apache/hugegraph/pull/3376) — feat(pd): commit schema keys and a per-graph record as one raft entry
@@ -49,7 +50,6 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 - [chaos-mesh/chaos-mesh#4930](https://github.com/chaos-mesh/chaos-mesh/pull/4930) — chore(ui): remove stale jss-to-styled codemod comment
 - [chaos-mesh/chaos-mesh#4929](https://github.com/chaos-mesh/chaos-mesh/pull/4929) — fix(ui): add dedicated icon for BlockChaos
 - [sustainable-computing-io/kepler#2600](https://github.com/sustainable-computing-io/kepler/pull/2600) — ci: add a GPU e2e workflow for the CNCF A10 runner
-- [deepchem/deepchem#5031](https://github.com/deepchem/deepchem/pull/5031) — [Docs] Add contributing your first featurizer developer guide
 
 ## Stats
 
@@ -64,4 +64,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-11-13 05:18 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-13 11:11 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
