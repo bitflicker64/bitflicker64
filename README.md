@@ -38,7 +38,7 @@ Currently contributing around Kubernetes, containerd, Cilium, and chaos/observab
 
 Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 
-- [apache/hugegraph#3477](https://github.com/apache/hugegraph/pull/3477) — fix(server): keep schema caches current across HStore Servers
+- [apache/hugegraph#3481](https://github.com/apache/hugegraph/pull/3481) — fix(server): keep schema caches current across HStore Servers
 - [apache/hugegraph#3383](https://github.com/apache/hugegraph/pull/3383) — fix(pd): wait for a ReadIndex before serving get and scanPrefix
 - [apache/hugegraph#3382](https://github.com/apache/hugegraph/pull/3382) — fix(pd): make the TTL cleanup delete the expired key under its marker
 - [apache/hugegraph#3376](https://github.com/apache/hugegraph/pull/3376) — feat(pd): commit schema keys and a per-graph record as one raft entry
@@ -64,4 +64,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-11-15 06:45 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-15 13:29 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
