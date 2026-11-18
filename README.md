@@ -54,8 +54,8 @@ Live snapshot of open pull requests in upstream orgs (auto-refreshed).
 ## Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445" alt="top languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bitflicker64&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitflicker64&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445" alt="top languages"/>
 </p>
 
 ## Tools
@@ -64,4 +64,4 @@ Java · Go · Python · JavaScript · SQL · Spring Boot · Kubernetes · Docker
 
 ---
 
-<sub>Auto-updated 2026-11-17 16:11 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
+<sub>Auto-updated 2026-11-18 00:35 UTC · [workflow](.github/workflows/update-readme.yml)</sub>
