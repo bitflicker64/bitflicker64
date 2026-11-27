@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27T01:46:44Z",
+  "checked_at": "2026-11-27T12:41:53Z",
   "username": "bitflicker64",
   "slots": {
     "stats": {
@@ -50,18 +50,18 @@
     "activity_graph": {
       "url": "https://github-readme-activity-graph.vercel.app/graph?username=bitflicker64&theme=github-compact&hide_border=true&area=true",
       "host": "github-readme-activity-graph.vercel.app",
-      "healthy": true,
+      "healthy": false,
       "tried": [
         {
           "url": "https://github-readme-activity-graph.vercel.app/graph?username=bitflicker64&theme=github-compact&hide_border=true&area=true",
           "host": "github-readme-activity-graph.vercel.app",
-          "ok": true,
-          "status": 200,
-          "bytes": 18772,
-          "error": ""
+          "ok": false,
+          "status": 402,
+          "bytes": 0,
+          "error": "Payment required  DEPLOYMENT_DISABLED  sfo1::hm7x6-1795783313843-5489afc58f05 "
         }
       ]
     }
   },
-  "all_healthy": true
+  "all_healthy": false
 }
